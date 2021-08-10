@@ -1,14 +1,18 @@
-Initial Account Hardening
-Giving up smoking is easy
-I've done it hundreds of times
-Mark Twain
+## Initial Account Hardening
+
+<div style="text-align: right">
+Giving up smoking is easy<br>
+I've done it hundreds of times<br>
+<i>Mark Twain</i>
+</div>
+
 The decision to start a new life without Google services usually does not come at once, plan how to implement it would take some time, and if you manage to do all data and accounts migration just in one year or less, you can consider yourself very fast.
 The first countermeasure would be your acceptance. The damage is done, and (probably) most of your personality, your wife, kids and dogs have records in Google ad preferences. However, you can at least stop it, right now. You can stop it without quit using Google Mail with 10 GB of data, Google Docs with recipes of your grandma and Google Photos with your home video. However, if I were you, I’d have removed THAT video, right away. Kids still may be smarter than you expected, you know.
 Yeah, the good news is on the way – countermeasures could (and must!) be taken right away, before even starting any migration. I’m talking about opting out of collecting your user data: geolocation, search history, sharing information, etc. Even if it claimed to be used for “improving the relevance of advertisements”, I hardly believe so, especially important things like where was I on the first Saturday of May 10 years ago. 
 
-Geolocation services 
+### Geolocation services 
 You have a right to opt-out of your location collection, and you can delete existing stored data: 
-
+![Delete location history]()
 Delete all timeline history 
 www.google.com/maps/timeline  
 
