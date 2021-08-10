@@ -12,14 +12,14 @@ Yeah, the good news is on the way – countermeasures could (and must!) be taken
 
 ### Geolocation services 
 You have a right to opt-out of your location collection, and you can delete existing stored data: 
-![Delete location history]()
-Delete all timeline history 
-www.google.com/maps/timeline  
 
- 
+#### 1. [Delete all timeline history](www.google.com/maps/timeline)
 
-Pause all location collection 
-https://myaccount.google.com/activitycontrols/location  
+
+![Delete location history](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/Geolocation_control_timeline.png)
+
+#### 2. [Pause all location collection](https://myaccount.google.com/activitycontrols/location) 
+  
 
  
 There’s probability, it will decrease appetite of the behemoth to collect your location of information. Why probability? Google sued for tracking people after opting out. Yes, they even resort to such unethical and predatory practices. However, in this case you can’t do much, unless you are Cyber Security professional. The only relief is increasing trend on privacy awareness and existence of whistleblowers, capable of revealing such unethical practice, which leaves us descent amount of hope.
