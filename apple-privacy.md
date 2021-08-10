@@ -37,7 +37,7 @@ There are some
 [strong doubts](https://crypto.stackexchange.com/questions/93423/how-unique-is-a-neuralhash) 
 regarding the Neural-Hash uniqueness, however, we would leave such statements 
 out of the scope of this article, because few people aside from encryption experts 
-can make an informed comment - even though, even intuitively, every fuzzy analysis 
+can make an informed comment - even though, intuitively every fuzzy analysis 
 provides probabilistic output. Meanwhile, we can concentrate on much simpler concepts:
 
 > Each photo is accompanied by a safety voucher that includes information about the photo, protected by two layers of encryption. This information includes a NeuralHash and a visual derivative of the photo.
