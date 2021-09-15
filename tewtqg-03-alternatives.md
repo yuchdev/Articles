@@ -50,7 +50,7 @@ Before we analyze and decompose every service we're going to replace, I kindly s
 | Service 	| Alternatives |
 | -----------	| ------------ |
 | Search | [DuckDuckGo](https://duckduckgo.com)<br>[Qwant](https://www.qwant.com/)<br>[Startpage](https://www.startpage.com/)<br>[SearX](https://searx.thegpm.org/) |
-| Chrome 		| [Mozilla Firefox]()<br>[Bromite]()<br>[Ungoogled Chromium]()<br>[Tor Browser]() 	|
+| Chrome 		| [Mozilla Firefox]()<br>[Bromite]()<br>[Ungoogled Chromium]()<br>[Tor Browser]()<br>[CalyxOS](https://calyxos.org/) |
 | Android 	| [LineageOS](https://lineageos.org/)<br>[/e/](https://e.foundation/)<br>[PostmarketOS](https://postmarketos.org/)<br>[GrapheneOS](https://grapheneos.org/) |
 | Mail 		| [Mailfence](https://mailfence.com/)<br>[Protonmail](https://protonmail.com/)<br>[Disroot](https://mail.disroot.org/) |
 | Calendar 	| [ProtonCalendar](https://calendar.protonmail.com/) |
@@ -68,7 +68,7 @@ Before we analyze and decompose every service we're going to replace, I kindly s
 | Allo 		|  |
 | Podsasts 	|  |
 | Newwsstand 	|  |
-| Wallet 		|  |
-| Voice 		|  |
-| DNS 			|  |
+| Wallet 	|  |
+| Voice 	|  |
+| DNS 		|  |
 
