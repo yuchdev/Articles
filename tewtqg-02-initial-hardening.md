@@ -1,10 +1,10 @@
 ## Initial Account Hardening
 
-<div style="text-align: right">
+<div style="text-align: right"><i>
 Giving up smoking is easy<br>
 I've done it hundreds of times<br>
-<i>Mark Twain</i>
-</div>
+Mark Twain
+</i></div>
 
 The decision to start a new life without Google services usually does not come at once, plan how to implement it would take some time, and if you manage to do all data and accounts migration just in one year or less, you can consider yourself very fast.
 The first countermeasure would be your acceptance. The damage is done, and (probably) most of your personality, your wife, kids and dogs have records in Google ad preferences. However, you can at least stop it, right now. You can stop it without quit using Google Mail with 10 GB of data, Google Docs with recipes of your grandma and Google Photos with your home video. However, if I were you, I’d have removed THAT video, right away. Kids still may be smarter than you expected, you know.

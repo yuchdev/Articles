@@ -1,11 +1,11 @@
 ## The Easy Way to Quit Google. Intro
 ### Brief intro into Empire of Good
 
-<div style="text-align: right">
+<div style="text-align: right"><i>
 It was said that you would destroy them!<br>
 Not join them!<br>
-<i>Obi-Wan</i>
-</div>
+Obi-Wan
+</i></div>
 
 When Google declared its now-infamous code of conduct “Don’t Be Evil” 
 in the early 2000s, it seemed to be quite a dare towards the “big corporate” 
@@ -22,10 +22,10 @@ much bigger evil than its competitors, which it claimed to oppose
 two decades ago.
 
 ### Why should I being concerned, when all my cat memes are on Google Drive?
-<div style="text-align: right">
+<div style="text-align: right"><i>
 Run you fools!<br>
-<i>Gandalf</i>
-</div>
+Gandalf
+</i></div>
 
 You should decide for yourself, assuming you’re an adult person 
 with computer literacy. I just let you know about a balance between your rights
@@ -88,11 +88,11 @@ that person who would receive a “letter of happiness”.
 
 ### Why should you start being concerned
 
-<div style="text-align: right">
+<div style="text-align: right"><i>
 Just because you're paranoid<br> 
 doesn't mean they aren't after you<br>
-<i>Joseph Heller</i>
-</div>
+Joseph Heller
+</i></div>
 
 I personally was a loyal user of Google for many years, being happy of increasing
 usability of their services – it’s so handy to have your history and bookmarks
@@ -161,10 +161,10 @@ private data would leak. Do you think your insurance cover that?
 
 ### Isn’t it enough to be concerned? Okay, here are stories beyond imagination
 
-<div style="text-align: right">
+<div style="text-align: right"><i>
 No way it would happen to me!<br>
-<i>Standard last words</i>
-</div>
+Standard last words
+</i></div>
 
 Google has 
 [actual CIA staff](https://youtu.be/c2Kf-rXI_pk)
