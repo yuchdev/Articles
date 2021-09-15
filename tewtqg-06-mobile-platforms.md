@@ -19,7 +19,7 @@ Linux distributions
 Switching to Linux distributions, an advanced user should understand that he has to find a replacement for basically all applications he got used to on Android. The good news is Linux offers a variety of alternatives to most applications, but if you stuck on online games, probably it's not your choice.  
 Fewer devices can run Linux than Android-compatible OS. However, you can consider devices like Librem 5 or Pinephone, intended for Linux in the first place, highly customizable and hackable. 
 PostmarketOS. this distribution, based on Alpine Linux, offers the largest number of supported smartphones, tablets and smartwatches as of April 2020. Developers have plans of supporting Android applications through a virtualization application, Anbox, which would create unique user experience if succeed. 
-PureOS. This Debian-based Linux distribution is being shipped with an opensource smartphone, Librem 5. Phone and OS offer "security by design", highly hackable, and require quite advanced user skills. The phone is empowered by top-level hardware, GPU with full OpenGL and Vulkan support, the phone even allows connecting keyboard, mouse and monitor through USB switch and run as a desktop computer.  
+PureOS. This Debian-based Linux distribution is being shipped with an opensource smartphone, Librem 5. Phone and OS advertise "security by design", highly hackable, and require quite advanced user skills. However, as of 2021, the smartphone is reported to have multiple problems with software, including security issues.
 
  
 Migrating OTP applications 

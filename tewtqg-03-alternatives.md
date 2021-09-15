@@ -50,6 +50,8 @@ Before we analyze and decompose every service we're going to replace, I kindly s
 | Service 	| Alternatives |
 | -----------	| ------------ |
 | Search | [DuckDuckGo](https://duckduckgo.com)<br>[Qwant](https://www.qwant.com/)<br>[Startpage](https://www.startpage.com/)<br>[SearX](https://searx.thegpm.org/) |
+| Chrome 		| [Mozilla Firefox]()<br>[Bromite]()<br>[Ungoogled Chromium]()<br>[Tor Browser]() 	|
+| Android 	| [LineageOS](https://lineageos.org/)<br>[/e/](https://e.foundation/)<br>[PostmarketOS](https://postmarketos.org/)<br>[GrapheneOS](https://grapheneos.org/) |
 | Mail 		| [Mailfence](https://mailfence.com/)<br>[Protonmail](https://protonmail.com/)<br>[Disroot](https://mail.disroot.org/) |
 | Calendar 	| [ProtonCalendar](https://calendar.protonmail.com/) |
 | Drive 		||
@@ -59,9 +61,8 @@ Before we analyze and decompose every service we're going to replace, I kindly s
 | Play Music (Repalced) |  |
 | Play Movies	|  |
 | Play Books 	|  |
-| Android 	| [LineageOS]()<br>[/e/]()<br>[PostmarketOS]()<br>[GrapheneOS]() |
-| Play Store 	|  |
-| Chrome 		| [Mozilla Firefox]()<br>[Bromite]()<br>[Ungoogled Chromium]()<br>[Tor Browser]() 	|
+| Translate	| [DeepL](https://www.deepl.com/translator)<br>[LibreTranslate](https://libretranslate.com/)<br>[Lingva](https://lingva.ml/) |
+| Play Store 	| [Aurora Store](https://auroraoss.com/)<br>[AppBrain](https://www.appbrain.com/)<br>[F-Droid](https://f-droid.org/)<br>[Amazon Appstore](https://www.amazon.com/gp/mas/get/android/ref=get_appstore/)<br>[ApkMirror](https://www.apkmirror.com/) |
 | Domains 	|  |
 | Hangouts 	|  |
 | Allo 		|  |
