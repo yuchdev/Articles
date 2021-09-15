@@ -45,23 +45,29 @@ Do the final checkup of your privacy settings. I’m sure, you can find plenty o
 
 ![Sharing Contacts](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/privacy-checkup-help-connect.png)
  
-
 ### 5.Ads personalization on Android
 
 Go to your phone Settings (Gear button) -> Google -> Ads, and select “Opt out of Ads Personalization” and perform “Reset advertising ID” 
 
- 
+![Android Ads](https://raw.githubusercontent.com/yuchdev/articles/master/images/tewtqg/intro/android-ads.jpg)
 
-Google Assistant on Android
+### 6.Google Assistant on Android
+
 Google Assistant is a privacy disaster, and most people don’t even comprehend its magnitude. Imagine a total stranger, who listen what you and your family said, in any moment, all the time. And that stranger is not one person, it could be anyone who can access the voice device. Thanks to “closed source” model of Google’s applications, we can’t know for sure, what do they do with this information. And of course, all your Android devices have this feature enabled by default. We can fix it, even location of these settings is a bit hidden.
 Depending on Android version and model, these settings could be located in slightly different places. For newer Android versions 9+, it is located in Settings-Google-Account Services (so it’s more Google account settings, than your phone) - Search, Assistant & Voice – Google Assistant.
 Choose “Voice Match”, and toggle off “Hey Google” switch. Then select “Your data in the Assistant”, and make sure all settings are set on “Paused” - for me it is “Web & App Activity”, “Audio recordings”, “App info from your devices”, “Contact info from your devices”, and “Ad personalization”. Also, here you can delete all previous activity, choosing “Web & App Activity -> See & delete activity”, and “Audio recordings -> Listen & delete activity”.
 
+![](https://raw.githubusercontent.com/yuchdev/articles/master/images/tewtqg/intro/disable-hey-google.jpg)
+
 Assistant activity while using headphones should be switched off separately (like if user turned it off globally, he still wants to say “Hey Google” in his headset). Depending on Android version and model, these settings could be located in slightly different places. For newer Android versions 9+, it is located in Settings-Google-Account Services (so it’s more Google account settings, than your phone) -> Search, Assistant & Voice -> Voice -> Hands-free, and toggle off switch “Bluetooth audio recording”. Somewhere there should be also switch for your connected hands-free device – turn off the switch “Get help from Google”
+
+![](https://raw.githubusercontent.com/yuchdev/articles/master/images/tewtqg/intro/disable-assistant-headset.jpg)
  
 Google permissions on Android
 After that, you can revoke Google application permissions. Go to Settings -> Apps -> Google -> Permissions, and toggle off all switches. Remember - if you do a factory reset an Android, you may need to go through this process again.
+
+![](https://raw.githubusercontent.com/yuchdev/articles/master/images/tewtqg/intro/revoke-permissions.jpg)
  
-More detailed information about collected data could be found in the Google Privacy Policy Guide. However, read it like any document, created by a layer, which is not paid by you.
+More detailed information about collected data could be found in the Google Privacy Policy Guide. However, read it like any document, created by a layer, which is not paid for by you.
 
 
