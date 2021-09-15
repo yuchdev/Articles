@@ -16,33 +16,38 @@ You have a right to opt-out of your location collection, and you can delete exis
 #### 1. [Delete all timeline history](www.google.com/maps/timeline)
 
 
-![Delete location history](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/Geolocation_control_timeline.png)
+![Delete location history](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/geolocation-control-timeline.png)
 
 #### 2. [Pause all location collection](https://myaccount.google.com/activitycontrols/location) 
   
-
+![Pause all location collection](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/geolocation-services-activity-controls-location.png)
  
 There’s probability, it will decrease appetite of the behemoth to collect your location of information. Why probability? Google sued for tracking people after opting out. Yes, they even resort to such unethical and predatory practices. However, in this case you can’t do much, unless you are Cyber Security professional. The only relief is increasing trend on privacy awareness and existence of whistleblowers, capable of revealing such unethical practice, which leaves us descent amount of hope.
 
-Search history and ad personalization 
-https://myactivity.google.com/privacyadvisor/search
+### 3. [Search history and ad personalization](https://myactivity.google.com/privacyadvisor/search)
+
 You can turn off collecting of your web activity, voice and audio recordings, information about installed applications and contact info. However, if you find some setting particularly useful and/or not harmful for your privacy, you can leave it on – it’s all up to you. I left YouTube history because I often come back to interesting educational videos I did not have time to finish.
 Surprisingly, your search activity contains not just only history of your Google queries, but links you typed and clicked, and the location where you did it. Choose “Delete all Search activity”.
- 
+
+![Search Activity](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/search-history-search-activity.png)
 
 Pause your Google-wide control under app activity. Following by link See all Activity Controls you also can manage YouTube history, People&Sharing, and your data in Google Assistant. Pause “Web&App activity”, pause “Voice and audio recordings” and “Contact info from your devices”. You may leave “App info from your devices”, these settings just manage information about installing apps.
  
+![All Activity](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/search-history-google-wide.png)
 
 Turn off your ads personalization. Select Paused.
- 
 
-Other services
-https://myaccount.google.com/privacycheckup
+![Ads Personalization](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/search-history-ad.png) 
+
+### 4. [Other services](https://myaccount.google.com/privacycheckup)
+
 Do the final checkup of your privacy settings. I’m sure, you can find plenty of privacy settings you did not spot anywhere else. Choose “About you” section, and turn off displaying information about you and “endorsing” you in Google Maps. Choose the “Phone Numbers” section and forbid “helping people” to identify you by your phone number. In “Google Photo Settings” you can turn off automated recognizing your face, this feature is used for creating connections between you and people who uploaded your photos. Also, here you should turn on “Remove geolocation in items shared by link”, which records your position with precision up to meters while sharing stuff.
 
+![Sharing Contacts](https://raw.githubusercontent.com/yuchdev/articles/main/images/tewtqg/intro/privacy-checkup-help-connect.png)
  
 
-Ads personalization on Android
+### 5.Ads personalization on Android
+
 Go to your phone Settings (Gear button) -> Google -> Ads, and select “Opt out of Ads Personalization” and perform “Reset advertising ID” 
 
  
