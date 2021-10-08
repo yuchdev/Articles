@@ -23,11 +23,14 @@ The most universal options probably would be the following:
 ##### LineageOS
 the most successful over time ROM, forked in 2016 from discontinued CyanogenMod, and offering regular releases since then. LineageOS is a free and open-source Android alternative, supporting over 100 smartphones and tablets, highly customizable, secure and private. The development team highly relies on the user's feedback, implementing the most wanted features. As a result, LineageOS has a number of unique features, unavailable on Android or available through 3rd party applications, like customizable Themes, pin scramble, removing call log entries, and of course, root console. You can enjoy a huge choice of applications from open-source applications markets, like F-Droid, or proprietary, like Samsung Galaxy Store. You can even install Google Play and most of the applications would be 100% compatible. However, installing Google applications, consider privacy, for example, prefer andOTP instead of Google Authenticator and Newpipe open-source YouTube client instead of proprietary analog. You also have the option of manual downloading of apk-files you used on your Android smartphone. 
 
-![LineageOS](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/mobile/lineageos.jpg)
+![LineageOS](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/mobile/lineageos.png)
 
 ##### /e/. 
 
 Another fork of LineageOS, replacing Google Play Services with MicroG, a free and open-source implementation of Google APIs, and using Mozilla Location Service for geolocation. 
+
+![/e/](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/mobile/e.png)
+
 
 #### I do not recommend
 
