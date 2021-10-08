@@ -30,13 +30,17 @@ Firefox offers a rich plugin ecosystem, including security- and privacy-related.
 
 I personally use Cookie AutoDelete (in a couple with I don’t care about cookies, to remove Cookie accept form from EU websites), and the ultimate browser privacy solution, uBlock Origin for the selective block of scripts on every single webpage. The last one requires some advanced knowledge about trackers and JavaScript, but if you don’t have it, you may leave default settings, it should work just fine. However, if you spend 20-30 minutes exploring its advanced features, you can dramatically increase not only your privacy and browsing safety level, like none of any other tool ever allow you to do. Once you started using uBlock Origin, you become fully aware of the avalanche of 3rd-party trackers, do not have any relations with the domain you are visiting, and having the single purpose to collect your browsing history and information about the browsing experience in general. Be aware, that blocking Google trackers does not necessarily make your browsing faster – sometimes it’s amazing to see how often sites are trying to serve trackers, ads, and analytics from Google before their own content. Entire internet based on the uptime of a single company.
 
+![Mozilla Firefox](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/browsers/firefox.png)
+
 #### Ungoogled Chromium
 
-In case you want to migrate from Google Chrome, but want to keep using the Blink engine and all Chrome-specific plugins, you can give it a try to this community-managed browser. Basically, it’s a Chromium stripped of all Google-specific web services, all features even slightly threatening privacy and transparency, as well as adding some features, promoting threatening privacy and transparency. It blocks functionality, which is connected to Google domains (Google Host Detector, Google URL Tracker, Google Cloud Messaging, etc.), borrows privacy features from such privacy-oriented projects as Bromite and Iridium Browser, blocking internal HTTP request to Google domain in runtime. This is the reason why Safe Browsing is disabled – it requires constant communication with Google servers to update blacklists. All services, tightly coupled with Google, like Google Speech API, are disabled as well. No default search engine is placed, and no suggestions are provided as well – the user is considered to be responsible enough to take this decision. In addition, DRM-protected content like Netflix is not supported by default, you need to follow the instructions from the official FAQ to enable it.
+In case you want to migrate from Google Chrome, but want to keep using the Blink engine and all Chrome-specific plugins, you can give it a try to this community-managed browser. Basically, it’s a Chromium stripped of all Google-specific web services, all features even slightly threatening privacy and transparency, as well as adding some features, promoting threatening privacy and transparency. It blocks functionality, which is connected to Google domains (Google Host Detector, Google URL Tracker, Google Cloud Messaging, etc.), borrows privacy features from such privacy-oriented projects as Bromite and Iridium Browser, blocking internal HTTP requests to Google domain in runtime. This is the reason why Safe Browsing is disabled – it requires constant communication with Google servers to update blacklists. All services, tightly coupled with Google, like Google Speech API, are disabled as well. No default search engine is placed, and no suggestions are provided as well – the user is considered to be responsible enough to take this decision. In addition, DRM-protected content like Netflix is not supported by default, you need to follow the instructions from the official FAQ to enable it.
 
 As mentioned, Ungoogled Chromium allows all Chrome extensions, not via the Chrome Webstore interface, but instead, by copying URLs from the Webstore and downloading CTX files. Also, it features a special Chromium Webstore, that handles installations and updated of plugins just like Chrome Webstore.
 
 Ungoogled Chromium is available for all major desktop operating systems, and also for Android, through a custom F-Droid repository.
+
+![Ungoogled Chromium](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/browsers/ungoogled_chromium.png)
 
 #### Tor
 
@@ -48,6 +52,8 @@ Tor allows the installation of some plugins or extensions, however, official gui
 
 One of the inconveniences of using this browser could be increased attention from service providers - from their point, if the user chooses Tor for accessing their service, he has something to hide. It may have various results, from the forced check of user identity using 2FA to the complete ban of accessing service using the Tor browser. 
 
+![Tor](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/browsers/tor.png)
+
 #### I do not recommend
 
 ##### Opera
@@ -58,6 +64,8 @@ Compared to the industry leaders, Opera provides quite a limited list of extensi
 Among other options, Opera offers a built-in ad-blocker, built-in cryptocurrency wallet, kind of unique feature. It has a synchronization option called MyFlow, including a quick share of links and text notes between devices, and a number of small and useful features, like video on top, or pop-up currency converter. 
 
 So, why don’t I recommend it? Unfortunately, not everything is clear regarding Opera’s future, due to the one very disturbing factor which must be taken into consideration – on 4th November 2016, Opera Software ASA has been acquired by the Chinese consortium, led by Beijing Kunlun Tech Co. The purchase included the browser itself, privacy and performance applications, and the whole Opera brand. Even though the community did not find any privacy violations so far, Chinese applications and services are notorious for their privacy-related scandals and desire to control and collect all user data on Chinese servers even for applications for international markets, therefore you should consider the privacy risk of using this browser.
+
+![Opera](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/browsers/opera.png)
 
 ##### Brave
 

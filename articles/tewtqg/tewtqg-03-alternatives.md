@@ -122,7 +122,7 @@ guide in the world of privacy-respecting products, services and applications
 | Service   | Alternatives  |
 | --------- | ------------- |
 | Search    | [DuckDuckGo](https://duckduckgo.com) <br> [Qwant](https://www.qwant.com) <br> [Startpage](https://www.startpage.com/) <br> [SearX](https://searx.thegpm.org) |
-| Chrome    | [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) <br> [Bromite](https://www.bromite.org/) <br> [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) <br> [Tor Browser](https://www.torproject.org/) |
+| Chrome    | [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) <br> [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) <br> [Tor Browser](https://www.torproject.org/) |
 | Android   | [LineageOS](https://lineageos.org) <br> [PostmarketOS](https://postmarketos.org) <br> [GrapheneOS](https://grapheneos.org) <br> [CalyxOS](https://calyxos.org/) |
 | Mail      | [Mailfence](https://mailfence.com) <br> [Protonmail](https://protonmail.com) <br> [Disroot](https://mail.disroot.org) |
 | Calendar  | [ProtonCalendar](https://calendar.protonmail.com) <br> [Disroot Calendar](https://cloud.disroot.org/apps/calendar/) |
