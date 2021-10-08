@@ -1,34 +1,19 @@
 # General choice of alternatives and the brief intro into a Personal Risk Management
 
-Looking for Google alternative services, you should consider not only obvious privacy 
-and security options, just like a good manager looking for a replacement of critical employee 
-is not considering only professional skills of the candidate. 
+Looking for Google alternative services, you should consider not only obvious privacy and security options, just like a good manager looking for a replacement of critical employee is not considering only professional skills of the candidate. 
 
-Exposing your personal data, your personal life to the internet, a hostile informational 
-Wild West, better to be prepared, than not to be. Words like “Risk Management” trigger visions 
-hedge funds mangers, solving Equations of the Ultimate Enrichment from Hell, but for simple people
-or even for simple businesses it could be wrapped up into three simple steps
+Exposing your personal data, your personal life to the internet, a hostile informational Wild West, better to be prepared, than not to be. Words like “Risk Management” trigger visions hedge funds mangers, solving Equations of the Ultimate Enrichment from Hell, but for simple people or even for simple businesses it could be wrapped up into three simple steps
 
 1.	Risk Identification
 2.	Risk Assessment
 3.	Risk Mitigation
 
 
-Before you started Googling (eh! Believe it or not, we are here not to use Google ever again!),
-I will explain, there’s no Rocket Science whatsoever.
+Before you started Googling, remember (eh! Believe it or not, we are here not to use Google ever again!), I will explain, there’s no Rocket Science whatsoever.
 
 #### Risk Identification
 
-Risk Identification is a simple description of something unpleasant which may happen to you 
-or your data (and consequently, to you). In the worst-case scenario, your private data is 
-on public domain, and you see personalized ads: “Your Grandma deserves new teeth implants”,
-with a smiling photo of your Grandma. But risks could be far less obvious. You may find your
-service secure and protected, but can’t use it, because it’s not designed for a normie user.
-Or you can start using it as a communication platform, but you don’t have anyone to communicate
-with, because none of your friends use it. You may spend time configuring and learning how 
-to use new features of your private email service, only to find you can’t export your old 
-contacts. You got the point by that moment. Fear not, I’m here to help you on your journey,
-because I myself passed, it from the start to the point I realized the journey is a destination.
+Risk Identification is a simple description of something unpleasant which may happen to you or your data (and consequently, to you). In the worst-case scenario, your private data is on public domain, and you see personalized ads: “Your Grandma deserves new teeth implants”, with a smiling photo of your Grandma. But risks could be far less obvious. You may find your service secure and protected, but can’t use it, because it’s not designed for a normie user. Or you can start using it as a communication platform, but you don’t have anyone to communicate with, because none of your friends use it. You may spend time configuring and learning how to use new features of your private email service, only to find you can’t export your old contacts. You got the point by that moment. Fear not, I’m here to help you on your journey, because I myself passed, it from the start to the point I realized the journey is a destination.<br>
 Don't worry, I found the answers we need.
 
 #### Risk Assessment
@@ -134,28 +119,22 @@ Before we analyze and decompose every service we're going to replace, I kindly s
 use the general experience on the problem, and use this table as a starting point and the 
 guide in the world of privacy-respecting products, services and applications
 
-| Service 	| Alternatives |
-| -----------	| ------------ |
-| Search | [DuckDuckGo](https://duckduckgo.com) <br>[Qwant](https://www.qwant.com) <br>[Startpage](https://www.startpage.com/) <br>[SearX](https://searx.thegpm.org) |
-| Chrome 		| [Mozilla Firefox]() <br>[Bromite]() <br>[Ungoogled Chromium]() <br>[Tor Browser]() <br>[CalyxOS](https://calyxos.org/) |
-| Android 	| [LineageOS](https://lineageos.org) <br>[/e/](https://e.foundation) <br>[PostmarketOS](https://postmarketos.org) <br>[GrapheneOS](https://grapheneos.org) |
-| Mail 		| [Mailfence](https://mailfence.com) <br>[Protonmail](https://protonmail.com) <br>[Disroot](https://mail.disroot.org) |
-| Calendar 	| [ProtonCalendar](https://calendar.protonmail.com) |
-| Drive 		||
-| Photos 		||
-| Docs 		| [ZohoDocs](https://www.zoho.com/docs) <br>[Office 365](https://www.office.com) <br>[CryptPad](https://cryptpad.fr) |
-| Analytics 	|  |
-| Play Music (Repalced) |  |
-| Play Movies	|  |
-| Play Books 	|  |
-| Translate	| [DeepL](https://www.deepl.com/translator) <br>[LibreTranslate](https://libretranslate.com) <br>[Lingva](https://lingva.ml) |
-| Play Store 	| [Aurora Store](https://auroraoss.com) <br>[AppBrain](https://www.appbrain.com) <br>[F-Droid](https://f-droid.org) <br>[Amazon Appstore](https://www.amazon.com/gp/mas/get/android/ref=get_appstore) <br>[ApkMirror](https://www.apkmirror.com) |
-| Domains 	|  |
-| Hangouts 	|  |
-| Allo 		|  |
-| Podsasts 	|  |
-| Newwsstand 	|  |
-| Wallet 	|  |
-| Voice 	|  |
-| DNS 		|  |
+| Service   | Alternatives  |
+| --------- | ------------- |
+| Search    | [DuckDuckGo](https://duckduckgo.com) <br> [Qwant](https://www.qwant.com) <br> [Startpage](https://www.startpage.com/) <br> [SearX](https://searx.thegpm.org) |
+| Chrome    | [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/) <br> [Bromite](https://www.bromite.org/) <br> [Ungoogled Chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) <br> [Tor Browser](https://www.torproject.org/) |
+| Android   | [LineageOS](https://lineageos.org) <br> [PostmarketOS](https://postmarketos.org) <br> [GrapheneOS](https://grapheneos.org) <br> [CalyxOS](https://calyxos.org/) |
+| Mail      | [Mailfence](https://mailfence.com) <br> [Protonmail](https://protonmail.com) <br> [Disroot](https://mail.disroot.org) |
+| Calendar  | [ProtonCalendar](https://calendar.protonmail.com) <br> [Disroot Calendar](https://cloud.disroot.org/apps/calendar/) |
+| Drive     | [Mega](https://mega.nz/) <br> [Sync](https://www.sync.com/) <br> [Protond rive](https://drive.protonmail.com/)|
+| Photos    | [Piwgo](https://piwigo.org/) <br> [Flickr](https://www.flickr.com/) <br> [Adobe Creative Cloud](https://www.adobe.com/) <br> [23snaps](https://www.23snaps.com/) |
+| Docs 		| [ZohoDocs](https://www.zoho.com/docs) <br> [Office 365](https://www.office.com) <br> [CryptPad](https://cryptpad.fr) |
+| Analytics | [Cloudflare Analytics](https://blog.cloudflare.com/privacy-first-web-analytics/) <br> [Fathom ANalytics](https://usefathom.com/) <br> [Matomo](https://matomo.org/)  |
+| Translate	| [DeepL](https://www.deepl.com/translator) <br> [LibreTranslate](https://libretranslate.com) <br> [Lingva](https://lingva.ml) |
+| Play Store | [Aurora Store](https://auroraoss.com) <br> [AppBrain](https://www.appbrain.com) <br> [F-Droid](https://f-droid.org) <br>[ApkMirror](https://www.apkmirror.com) |
+| Domains   | [Hover](https://www.hover.com/) <br> [Namecheap](https://www.namecheap.com/cloudflare) <br> [CloudFlare](https://www.cloudflare.com/) |
+| Hangouts  | [Signal](https://www.signal.org/) <br> [Matrix](https://matrix.org/) <br> [Telegram](https://telegram.org/) |
+| Voice     | [RingBlaze](https://www.ringblaze.com/) <br> [Ooma](https://www.ooma.com/) <br> [VirtualPBX](https://www.virtualpbx.com/) |
+| Podsasts  | [Pocket Casts](https://www.pocketcasts.com/) <br> [Antenna Pod](https://antennapod.org/) <br> [gPoddler](https://gpodder.net/) |
+| DNS       | [OpenDNS](https://use.opendns.com/) <br> [NextDNS](https://my.nextdns.io/93bac5/setup) <br> [CloudFlare DNS](https://dot1dot1dot1.cloudflare-dns.com) <br> [LibreDNS](https://libredns.gr/) |
 
