@@ -87,5 +87,4 @@ Advice 10. Nursery room.<br>
 Any room with enough daylight, minimum dust, fresh air with control of
 optimal temperature and humidity. For the first 6 months, the ideal nursery is the parent's bedroom. 
 A separate nursery room is not necessary and not optimal if you need to reach your baby often. 
-The best solution is a crib attached to the parent's bed. Sleeping in one bed with parents is not advised, 
-as it carries a number of risks to the baby's health and affects the sleep of parents.
+The best solution is a crib attached to the parent's bed. Whether to sleep in one bed with parents or not is a controversial problem. One says it carries a number of risks to the baby's health and affects the sleep of parents, others that such practice let the baby feel being loved and cared for from the first day of life, so it's up to you to choose the right side.  
