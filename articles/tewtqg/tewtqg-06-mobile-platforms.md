@@ -10,7 +10,7 @@ Security rules, "endorsed" by Google, strongly advise not to install anything fr
 
 However, as Third Newton’s law says, when you exert some force, counterforce is exerted in the opposite direction. A choice of alternative open-source solutions emerged, from simple things like customlaunchers for rooted phones to more advanced, like kernels and custom ROMs, which is effectively a full replacement to Android, yet supporting many Android apps natively. 
 
-In general, considering an alternative to Google Android, you have two big options. First is to choose one of Google-free Android distributions, where Google services were removed, but you still can install Android applications, and even compatible with most of Google Play applications. Second is a more radical choice, switching to one of mobile Linux distributions, or purchase a phone with pre-installed Linux.  
+In general, considering an alternative to Google Android, you have two big options. First is to choose one of Google-free Android distributions, where Google services were removed, but you still can install Android applications, and even compatible with most of Google Play applications. In 99% cases, it's a perfectly sufficient option. Second is a more radical choice, switching to one of mobile Linux distributions, or purchase a phone with pre-installed Linux.  
 
 #### Android distributions
 
@@ -21,7 +21,7 @@ You should be ready to root your phone before installing a new ROM, so your skil
 The most universal options probably would be the following: 
 
 ##### [LineageOS](https://lineageos.org/)
-the most successful over time ROM, forked in 2016 from discontinued CyanogenMod, and offering regular releases since then. LineageOS is a free and open-source Android alternative, supporting over 100 smartphones and tablets, highly customizable, secure and private. The development team highly relies on the user's feedback, implementing the most wanted features. As a result, LineageOS has a number of unique features, unavailable on Android or available through 3rd party applications, like customizable Themes, pin scramble, removing call log entries, and of course, root console. You can enjoy a huge choice of applications from open-source applications markets, like F-Droid, or proprietary, like Samsung Galaxy Store. You can even install Google Play and most of the applications would be 100% compatible. However, installing Google applications, consider privacy, for example, prefer andOTP instead of Google Authenticator and Newpipe open-source YouTube client instead of proprietary analog. You also have the option of manual downloading of apk-files you used on your Android smartphone. 
+Lineage is the most successful over time Android-based ROM, forked in 2016 from discontinued CyanogenMod, and offering regular releases since then. LineageOS is a free and open-source stock Android alternative, supporting over 100 smartphones and tablets, highly customizable, secure and private. The development team highly relies on the user's feedback, implementing the most wanted features. As a result, LineageOS has a number of unique features, unavailable on Android or available through 3rd party applications, like customizable Themes, pin scramble, removing call log entries, and of course, root console. You can enjoy a huge choice of applications from open-source applications markets, like F-Droid, or proprietary, like Samsung Galaxy Store. You can even install Google Play and most of the applications would be 100% compatible. However, installing Google applications, consider privacy, for example, prefer andOTP instead of Google Authenticator and Newpipe open-source YouTube client instead of proprietary analog. You also have the option of manual downloading of apk-files you used on your Android smartphone. 
 
 ![LineageOS](https://raw.githubusercontent.com/yuchdev/Blog/master/images/tewtqg/mobile/lineageos.png)
 
@@ -45,7 +45,7 @@ Actually, it's a "totally opensource" fork of LineageOS with removed all proprie
 
 #### Linux distributions 
 
-Switching to Linux distributions, an advanced user should understand that he has to find a replacement for basically all applications he got used to on Android. The good news is Linux offers a variety of alternatives to most applications, but if you stuck on online games, probably it's not your choice.  
+Switching to Linux distributions, an advanced user should understand that he has to find a replacement for basically all applications he got used to on Android. The good news is Linux offers a variety of alternatives to most applications, but if you stuck on online games, probably it's not your choice.
 
 Fewer devices can run Linux than Android-compatible OS. However, you can consider devices like Librem 5 or Pinephone, intended for Linux in the first place, highly customizable and hackable. 
 

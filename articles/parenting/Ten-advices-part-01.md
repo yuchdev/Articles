@@ -1,10 +1,14 @@
 Advice 0. Advice about advises.<br>
-- Accept advice not as an instruction to act, but as a source to think
-- Always analyze advice credibility and source
-- Be careful with advises given to you with the purpose to improve the wealth of the adviser
-- Avoid complicated, ambiguous, confusing advises
-- Responsibility for following or non following the advice is only yours, not the adviser
-- Be aware that the so-called "Natural approach to baby care" comes not from Nature, but rather from the internet.
+Being experienced and loving parents, we collected lots of information to share about caring for the baby in the first year of her life - planning, nursing, sleeping, clothing, bathing, medical information, and just general wisdom. We will try to provide links to the most credible sources of our information, however, before giving any advice, we have "advise number zero" for you, or advice about navigating through any advises.
+
+1. Accept advice not as an instruction to act, but as a source to think
+2. Always analyze advice credibility and source
+3. Be careful with advises given to you with the purpose to improve the wealth of the adviser 
+4. Avoid complicated, ambiguous, confusing advises 
+5. The final responsibility for following or not following the advice is only yours, not the adviser 
+6. Be aware that the so-called "Natural approach to baby care" comes not from Nature, but rather from the internet.
+
+Now, when we have all the precautions, we can start.
 
 Advice 1. Have as much rest as you can afford. <br>
 Accept any help. Accept kindness and greetings from your friends and your loving ones. 
@@ -13,13 +17,10 @@ Remember - the well-being of the mother is a pre-requisite of the baby's wellbei
 Advice 2. Don't be afraid to ask.<br>
 Don't be afraid to ask more experienced or more professional people, 
 especially medical workers and baby-nurses.
-* Create a list of questions you're going to ask. 
-* Don't hope you remember them all.
+* Create a list of questions you're going to ask, do not rely on your memory
 * Such questions may relate to 
   * Baby's health
-  * Contacting health professionals
-  * Recommendations
-  * Addresses and phones
+  * Contacts of health professionals
   * Nursing recommendations
   * Clothes and hygiene
   * Walking and physical activities
@@ -30,7 +31,7 @@ Tuberculosis vaccine (or BCG vaccine) prevents the worst forms of tuberculosis a
 you need to see a doctor and open it with a simple needle. The whole procedure does not bear any significant risk for a baby.
 
 Advice 4. Do not compare.<br>
-Don't compare your baby to adults or other babies. All babies are different, and babies are quite different than adults.
+Don't compare your baby to adults or other babies. All babies are different, and babies in general are quite different than adults.
 Don't rely on the opinion of your relatives, unless they are healthcare or baby care professionals. Otherwise, 
 politely ask them to avoid comments.
 Many things you considered bad because of superstitions and misinformation, is actually harmless or good, 
@@ -38,8 +39,7 @@ and vice versa.
 There are two general tendencies among parents - one tends to consider "everything good with my baby", 
 others look for all imperfections they can find.
 Don't think your baby is too thin/thick, bald/hairy, quiet/noisy, pale/red.
-Don't be fooled by unnecessary emotions. Mothers tend to be under hormonal impact right after giving  
-birth  and during nursing
+Don't be fooled by unnecessary emotions. Mothers tend to be under hormonal impact right after giving birth and during nursing
 
 Advice 5. Right care of umbilical cord.<br>
 It assumes usage of baby soap, clean water and cotton disk 1-2 times/day. 
