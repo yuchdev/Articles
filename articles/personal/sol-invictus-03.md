@@ -1,12 +1,12 @@
 # Chapter 3
 
-When Verka and I (she was my traveling companion in India, and we didn't really communicate afterwards) went to Arunachala, it was a real trip. And not at all because of the substances.
+When Verka and I (she was my traveling companion in India, but we didn't really communicate after that) went to Arunachala, it was a real trip. And not at all because of the substances.
 
-At first, a dull agricultural zone dragged on for a long time. Gradually, such very peculiar rocky slides began to appear around, as if poured by someone from huge boulders (I realized at the sight of them, where fairy tales about giants come from) – and then the car stopped at the intersection, I turned my head and almost kissed a huge white buffalo with rattles on its horns. Moreover, the horns were painted in three colors.
+At first, a dull agricultural zone stretched on for a long time. Gradually, very peculiar rocky slides began to appear around, as if huge boulders were poured by someone (looking at them, I realized, where fairy tales about giants came from) – and then the car stopped at the intersection, I turned my head and almost kissed a huge white buffalo with rattles on its horns. Moreover, her horns were painted in three colors.
 
-A buffalo-drawn cart. It's like three thousand years ago. Only there were no rubber tires then… Although who really knows him.
+A buffalo-drawn cart. It's like three thousand years ago. Only there were no rubber tires then… Although, who really knows.
 
-And after that, I was high all the day – as if I had moved from reality to a fairy tale. My friend and I got to Arunachala and checked into a hotel for pilgrims. There were only rooms available on the ground floor; Verka fell asleep, and I went for a walk in the courtyard. And I saw him. This German.
+And after that, I was feeling high all the day – as if I had moved from reality to a fairy tale. My friend and I got to Arunachala and checked into a hotel for pilgrims. There were only rooms available on the ground floor; Verka fell asleep, and I went for a walk in the courtyard. And I saw him. This German.
 
 That is, I later found out that he was German, and then it was just a gray-haired old man with long hair who was sitting on a small chair and carefully looking at a candle burning on the floor, a bowl in an aluminum shell, like those that are sold in "Ikea".
 
@@ -22,14 +22,14 @@ I stared at the candle.
 
 – Do you believe in significant meetings? - he asked. – Capable of turning your whole life around?
 
-–Yes,– I said. – But it's better when it happens without the police.
+–Yes,– I said. – But it's better when it will do without the police.
 He smiled.
 
 – You came to Arunachala because you are looking for the truth.
 
 "Well, yes" I agreed. "In a some way" 
 
-"I'll tell you about the truth", – he said, – "listen carefully and look at the candle".
+"I'll tell you about the truth", – he said, – "listen carefully and look at the candle"
 
 And that's when I heard about the signs and shovels. However, then he added something else.
 
@@ -37,7 +37,7 @@ And that's when I heard about the signs and shovels. However, then he added some
 
 "So what to do?" I asked.
 
-"First you need to understand that the truth cannot be learned from people".
+"First you need to understand that the truth cannot be learned from people"
 
 "Why?"
 
@@ -45,7 +45,7 @@ And that's when I heard about the signs and shovels. However, then he added some
 
 "What do you mean?"
 
-Every person is by nature a question. A blatant question. Where would he get an answer from? People can hide their questionability under various robes, cassocks, and so on, and distribute the great final teachings to others. But it's just business.
+Every person is a question by his nature. A blatant question. Where would he get an answer from? People can hide their questionability under various robes, cassocks, and so on, and distribute the great final teachings to others. But it's just business.
  
 What's not business?
 
@@ -59,7 +59,7 @@ What's not business?
 
 "We're talking to him right now" he said, "you and me"
 
-Then I thought that he might be an ordinary madman. Or rather, a deeply religious person.
+Then I thought that he might be an ordinary madman. Or rather say, a deeply religious person.
 
 "And what does he tell you?"
 
@@ -93,4 +93,141 @@ He laughed.
 
 "Is matter also God?"
 
+Something like his nails or hair, let's say. Your nails is you?
 
+I shrugged.
+
+That's the same thing here. God, like the water, can be in different states. He may know that he is God. It's steam. He may not know that he is a god. It's ice. And it can also be what we conventionally called a flow, a liquid. Something that sometimes understands its nature, sometimes not. Like a mixture.
+
+Perhaps.
+
+God in his omniscient aspect is present everywhere and penetrates into everything. A single nervous system passes through different states and forms, nowadays we would say – an information network, which you can use even when you do not understand your nature at all and consist of only ice, like a snowman. You can ask God questions and get answers from him.
+
+How?
+
+He will send you signs. A kind of personal ciphertext.
+
+I don't really understand," I said. – "How will I decipher them?"
+
+You don't have to decipher anything. Messages are encrypted only for others. The instant configuration of your consciousness is unique and changes every second. Two people know about it – you and God. And at some point a quiet voice arrives from the outside world: "Here! That's it!" Like an arrow pointing at something. This is the message: pay the attention to whatever you see, hear or think right now. There is no point in explaining in more detail. It is necessary to understand by experience.
+
+I nodded. Then, without much interest, I thought: "Maybe it's true?"
+
+And then the candle light swayed a little. Lightly, as happens from a draft. I looked up at the German. He was smiling.
+
+"Remember," he said, "God will only talk to you. Others will not see the signs sent to you. And you won't see what he tells others. Do you know what I mean?
+
+"Yes," I replied, "I understand. But what if I don't believe in God? I really, really don't believe it?
+
+– You believe in him. Otherwise you wouldn't have come to Arunachala.
+
+– I know better what I believe in.
+
+"Okay," he said, "what do you believe in?"
+
+–I believe...– I hesitated. – I believe that we live in virtual reality. And I also believe in the unified animate nature of everything that exists. Just don't ask me how one will connect with the other.
+
+"It's easy to connect,– he replied. – Through the God. Have you seen such photo sticks from tourists? A phone or camera is attached to them, and people take pictures of themselves.
+–Yes,– I said. – Selfie tripods.
+
+We all work for God these selfie tripods. God entrusts you to see your part of reality for him. How to work on a specially allocated garden bed.
+
+I was already getting tired of such frequent repetition of the word "God". How much is possible?[TODO:translate]
+
+"But why do you call it God?"  I asked.
+
+He spread his hands.
+
+– This word is popular among Indian saints. You can say whatever you want – "spirit", "unified information network", "quantum conscious factor" and whatever else. All these are just inscriptions on the plates under which there are shovels. No matter how much you swarm, you won't find anything except other tablets. It's not about what we call it. It's about how we will use it.
+
+– And how can this be used?
+
+"Depends on you,– he replied. – Or rather, from God in you. You can't do anything yourself. God in you can do anything.
+
+At that moment, the light swung again – and the door opened. Verka was standing on the threshold.
+"You're here,– she said and nodded to the German. – I've been looking for you, Sasha. You could have warned me at least...
+
+The next day, the three of us climbed Arunachala.
+At first, Verka didn't want to go. The sky was low and gray, and we were afraid of rain. But Hans-Friedrich assured that there would be no rain until the evening and it was possible to do without a local guide, since he knew the way himself.
+
+On the way, Hans-Friedrich told about himself. He was a microbiologist, then became a businessman, and now was [TODO:synonym]. "Retired", Verka thoughtfully translated for herself. He considered himself a follower of Ramana Maharshi and was coming to Arunachala every year. Also, he attended Goenka's Vipassana retreats, where he strongly advised us to go. He assured me that one does not interfere with the other in any way.
+
+"Climbing Arunachala is a very special experience," he said. – Look carefully around and try to hear what this place wants to tell you… It will whisper something important to you if you tune in yourself to its waves.
+
+We went up – Hans-Friedrich was leading the way, and we were behind.
+
+Generally speaking, the place was not particularly impressive at first. Not that it's just such a Mountain from a capital letter – just a green slope with boulders. But it was beautiful.
+
+On the way, Hans-Friedrich sarcastically and ridiculously mocked the Indian gurus selling "enlightenment". According to him, the word "enlightenment" had two meanings: "futures" and "role-playing game". Verka asked how to understand this.
+
+"Market participants are divided into enlightened and those seeking enlightenment," Hans-Friedrich replied. – These words, of course, should be taken in quotation marks. If you are "enlightened", then "enlightenment" is a futures that you sell to other market participants. At the same time, this is your role-playing game. If you are a "seeker of enlightenment", then this is also your role-playing game, because after a year of working with previously purchased futures, you can portray enlightenment as well as any guru - but your role does not allow this. Each of these role positions has its own language and its own function… However, do not clog your head, girls. Better look around. Where else will you see such beauty…
+
+The views really became more and more interesting.
+
+Mountains rose around us in several colors – darker nearby, and lighter further, from brown to light blue on the horizon. I remember two or three mountains at once seemed to me like woman's boobs, with a sharp peak, strongly shifted to the right edge.
+
+Then I noticed something like a small burrow just a few centimeters wide in the earthen wall - bright white mushrooms of a very delicate kind were growing inside. It's like such an apartment for dwarfs. Their housing looked flimsy and unreliable, as if it could collapse at any second, and I experienced all the proper associations with human life.
+
+A couple of minutes later I came across a beautiful green scarab beetle with long, long legs. Noticing that I was looking at him, he began sluggishly getting out of my field of attention, and I left him alone.
+
+Then we met a pair of light gray monkeys - one looked like a monkey and stood on all four paws. And the other– apparently a male–was eating a banana. This male had a real men's sports hairstyle, such a barber's hedgehog, and his face looked like a gloomy, conscious and understanding proletarian of the revolutionary years. "Monkey heart," Bulgakov would say if he was a Hindu.[TODO:3CND]
+
+If the world was trying to convey some mysterious message to me with the help of all these signs (I, of course, remembered the conversation with Hans-Friedrich), it flew past and fell into a thicket of burdocks.
+
+Then I stopped thinking about yesterday and started just looking around.
+
+The higher we climbed, the darker it became around – the top of the mountain was covered with either fog or low clouds.
+
+This ascending into the twilight had an inspiring effect on me – I was filled with awe and began to imagine that I had entered the vaults of the temple.
+
+Before we finally plunged into the fog, I really noticed a temple far below, even a whole complex – a rectangular field surrounded by a gray wall with four tall pyramidal towers (they stood not in the corners, but in the middle of each of the walls). There were two smaller pyramids in the center of the field. It seemed to me that this building is not Indian, but some kind of Mexican. Such a Tenochtitlan.
+
+Then only the narrow trail remained in the fog, and a few minutes later we reached the top of Arunachala.
+
+It was a small rocky patch overgrown with sparse bushes. In one place, a powerful metal trident stuck out of the ground with its points upwards. The sign of Shiva.
+
+After all, it was not the fog around, but low rain clouds which did not dare to become rain. Hans-Friedrich said that this happens here often.
+
+I stepped away [TODO:synonym] from everyone, and stood not far from the trident, on the very cliff – and stared down. I could see nothing. Rather, I saw only clouds of some vapor, flying towards our mountain. They were flying below us and above us, from all sides. It's like in an airplane passing clouds when climbing, only not so fast.
+
+The cloud vapor was surprisingly fresh and even, I would say, fragrant – it seemed to me that it slightly smelled of this red gum, masala with betel, the smell of which constantly overtakes on any Indian street. Only the shade of the fragrance was thinner and fresher and did not irritate, but, on the contrary, hinted at some absolutely divine freedom and joy.
+
+
+The level of Shiva," I whispered a phrase that I didn't fully understand myself, "the level of Shiva…
+Now I remember that moment and realize that I was absolutely, irrevocably happy at that moment. But then, of course, I didn't understand it.
+Or rather, she understood, but incorrectly. It seemed to me that the fog of bliss hinted at something waiting for me ahead, as if it promised happiness... and that was it.
+Today, from the height of my thirties, I would probably say that happiness is the second when you believe in the possibility and feasibility of your happiness, such a bizarre recursive loop in our brain organ. And there is probably nothing else in the mirrors among which we wander.
+In general, it was amazing – and lasted for a long time, half an hour or more. I was standing over the cliff, looking into the warm cloudy fog, and soon it began to seem to me that it was not gray, but a soft purple, and it was Shiva himself rushing at me now, touching me, playing with me and promising me something… I could almost guess the golden figure of God dancing in the clouds… Oh, how much he promised… I even got jealous at some point - he's like that to everyone
+"I want to meet you, dancing god," I thought with inspiration and joy, "to get as close to you as possible. Appear in front of me as you want... Show me what you can do... Please, please..."
+Probably, you shouldn't have asked for this – the prolonged miracle almost immediately ended. A second later, Hans-Friedrich touched my shoulder. I told in a nutshell about what was happening to me.
+– What was that?  I asked.
+"A gift,– he replied. – Everything that happens on Arunachala is a gift from God.
+I looked back. Verka was standing ten meters away from us and didn't listen to what we were talking about.
+"I didn't get any signs," I said. – No instructions. I just felt good. As good as I can't remember when ...
+– There is no better sign, – smiled Hans-Friedrich. – You came to visit God, and it was good for you to visit him.
+– Well, if you interpret it that way ...
+– There is no need to interpret anything, - he said. – Just notice what's happening to you. God speaks softly, but very clearly. You came to visit him and had a nice time. I would be pleased.
+Me too," I nodded. – Was…
+It sounded unexpectedly sad. I suddenly wanted to stand on the cliff again and expose my face to the purple fog, and meet Shiva again (I had already fantasized a lot about my experience) – but it was clear that this wave of unbearable happiness could not be returned and not forged. The miracle is over.
+–It's time for us to go down," Hans-Friedrich said. – It may start to rain. But I want to tell you one thing before we leave the top – because this is a special place and every word spoken here weighs a lot… What I told you yesterday about signs and directions is the way. A special way under the personal guidance of God.
+I wanted to repeat that I don't believe in God, but then I remembered how I had just communicated with Shiva and grinned. Hans-Friedrich noticed this grin.
+"All right," he said. – Call it what you want. Call it the mystery of the world. The heart of everything. You said Shiva looked at you. Do you want to know how?
+I shrugged my shoulders. Then she nodded.
+– You can do it. You can walk there.
+– How?  I asked.
+Trust the signs. Learn to see them, be always on the alert – and don't miss your chance. You will definitely have it. The signs will show you everything you need. This is a journey that relies on itself and does not need anything else.
+Thanks," I said. – And why are you actually telling me this?
+"I don't have much longer to live," Hans–Friedrich replied. – I just want someone to get the magic secret that I've been using all my life as a gift. And you seem like a great candidate to me.
+- why?
+– For the same reason. No one could have entered my room yesterday. Your friend could have come in. But it was you who came in…
+– I see," I said. – Is it like a dedication?
+He smiled, touched his forehead with his index finger, and then mine.
+– Now yes. The secret officially passes to you. You know everything you need for the ultimate journey. Consider it a gift from Shiva.
+–Well," I said, "when do we start the journey?" At what point?
+– You'll find out. Honestly, you'll find out for yourself. Now just get it all in your head. Write it down in a corner of your memory and forget it for a while. Don't tell anyone about this and don't take fellow travelers or fellow travelers. You can't go there with a friend. The ultimate journey is a personal journey.
+the path turned out to be a little scary – and for a while obscured all other impressions for me. We were running away from the impending rain, and Hans-Friedrich led us along another road – we did not walk at all, but jumped over bumps and stones, zigzagging down. Several times I thought that I would definitely break my neck during these jumps. Then I decided that we were lost and would not get out of the thicket. Both times I managed to get very angry with Hans-Friedrich, and I was even embarrassed for the worldly feelings on the sacred mountain. But everything worked out.
+Interestingly, the rain that we were running away from never spilled. But in the evening I left my sandals on the street, a downpour began at night, and they were soaked to the point of complete unusability.
+In the morning, Hans-Friedrich discreetly said goodbye to us and left. I didn't take his phone or mail.
+Verka and I walked around the ashram for a couple more days, bought incense and music cassettes with bhajans (these are such religious hymns), sat in meaningful silence for several hours in an empty room with a large portrait of Ramana, and left too.
+
+*Emoji of a beautiful blonde with light sadness remembering how it happens in India when you are twenty-five years old and Shiva is dancing in the sky and everything is still ahead.png*

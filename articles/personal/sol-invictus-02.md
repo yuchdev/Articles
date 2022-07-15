@@ -1,6 +1,6 @@
 # Chapter 2
 
-Daddy showed up – probably, he felt that I was remembering about his pasta. He even came to my house. At first, I couldn't understand what it was all of a sudden, until he said himself. Thirty years. Well, yes, the anniversary.
+Daddy showed up – probably, he sensed that I was thinking about his pasta. He even came to my house. At first, I couldn't understand what it was all of a sudden, until he said himself. Thirty years. Well, yeah, the anniversary.
 
 He didn't notice my birthdays before. But after all, the Russian businessman is mainly interested in the zeros to the right of the digit. There were no zeros for a long time.
 
@@ -30,19 +30,19 @@ He didn't notice my birthdays before. But after all, the Russian businessman is 
 
 – Why is the whole room in rags? Do you sew suits?
 
-– Nope. That is, yes, but not only that. It's also for sale.
+– Nope. I mean, yes, but not only that. It's also for sale.
 
-– Don't you have enough money? Mom takes on you.
+– Don't you have enough money? Mom takes for you too.[TODO:phrasing]
 
-"I'm fine," I replied. – "I just like to sew. I can tailor you a coat too, like Chichvarkin's. You will come to the party meeting in it, and in a week you will peacefully move with your family to London. What do you think?"
+"I'm fine," I replied. – "I just like to sew. I can tailor you a coat too, like Chichvarkin's. You will come to the party meeting in it, and in a week you will peacefully move with your family to London. What d'you think?"
 
-He shook his finger at me. Then he shook his head, sighed, and shook it again. Apparently, I touched some strings.
+He shook his finger at me. Then he shook his head, sighed, and shook his finger again. Apparently, I touched some strings.
 
 – I think you got sucked,– he said. – into a some shallow swamp. You need to unwind. Forget about all this. Rags, decorations. See the world while you still can. Let your mind clear. Maybe you'll find something better for yourself.
 
 – Like a business secretary?
 
-– Why secretary. You know English fluently, you can work anywhere abroad. You love Asia. Take India, for example. There will be opportunities soon. English is spoken a lot of places.
+– Why secretary. You know English fluently, you can work anywhere abroad. You love Asia. Take India, for example. There will be opportunities soon. English is spoken in a lot of places.
 
 "I like to do things with my hands," I said. – Well, or the body. Not in that sense, of course. And I would like to keep my head for myself.
 
@@ -50,9 +50,9 @@ He shook his finger at me. Then he shook his head, sighed, and shook it again. A
 
 – Well, sort of.
 
-– My baby, you can't think about life sitting far from it. Life is what you do to the world, and the world does to you. Kind of like sex. And if you step aside and start thinking about it, the very subject of reflection disappears. There remains a void in the place of life. That's why all these contemplators who are sitting on their asses against the wall are talking about emptiness. They just ran out of life – but they think they understood everything about it. It's useless to think about life. Life can only be lived.
+– My baby, you can't think about life sitting far from it. Life is what you do to the world, and the world does to you. Kind of like sex. And if you step aside and start thinking about it, the very subject of reflection disappears. There remains a void in the place of life. That's why all these contemplators who are sitting on their asses against the wall are talking about emptiness. They just ran out of life – but for some reason they think they understood everything about it. There's no sense in thinking about life. Life can only be lived.
 
-By the way, he is not stupid at all, and sometimes says such things that I don't even understand how he gets back to his pasta from them. For example, now. If some Hindu teacher had said that on satsang, everyone would have remembered and quacked of surprise for two weeks. There is no prophet in his own homeland.
+By the way, he is not stupid at all, and sometimes says such things that I don't even understand how he gets back to his pasta from them. For example, now. If some Hindu teacher had said that on satsang, everyone would've quacked of administration for two weeks. There is no prophet in his own homeland.
 
 – "Thinking, Dad, also means living," I replied. – And if you step away from the world, you don't even have to think. You may not be thinking at all and doing nothing at the same time. There will also be a life, just different. Not like yours.
 
@@ -68,7 +68,7 @@ What if Daddy have heard.
 
 And she showed him her paint-stained hands. One of my fingers was cut and wrapped with a bandage.
 
-– You're doing it,– he sighed. – But not what you need. Okay, you're already big girl, why should I fix your head? I want to make you a gift.
+– You're doing it,– he sighed. – But not what you need. Okay, you're already a big girl, why should I fix your head? I want to make you a gift.
 
 – Which one?
 
@@ -108,11 +108,11 @@ Let me explain what I'm talking about.
 
 The political scientist Egor, who once loved me and beerness (I'm sure he still loves it), loved to mock my spiritual, as he put it, wanderings. Especially when it was already becoming gradually clear to us that soon he would be left alone with the beerness of him.
 
-Look at you. You do yoga on the mat every day, as if you are praying. You were traveling in India to some muddy ashrams. You regularly pretend to meditate, and then you can't even creak a floorboard next to you. You read various esoteric bullshit, on which smart people earn money. Do you even understand what this is all about?
+"Look at you. You do yoga on the mat every day, as if you are praying. You were traveling in India to some muddy ashrams. You regularly pretend to meditate, and then you can't even creak a floorboard next to you. You read various esoteric bullshit, on which smart people earn money. Do you even understand what this is all about?"
 
 "What?" I asked.
 
-"Beads!" He held up a finger. "It's just your beads. A virtual bundle of spiritual treasures that you will present to your faithful instead of a dowry in exchange for"...
+"Beads!" He held up a finger. "It's just your beads. A virtual bundle of spiritual treasures that you will present to your loving dear instead of a dowry in exchange for..."
   
 Here he got confused, because his sarcasm abruptly ran out of fuel.
 
@@ -150,7 +150,7 @@ Then there were transurfing, mindfulness, Sufi dance, Dzogchen and something els
 
 It also hung on the necklace, sparkled and sparkles until now. Yes, a party acquaintance. Is there anything else in our brief urban lives? No. There are only beads. Only the threads on which the colorful show-offs.
 
-If I were asked what I think about all these issues now, I would quote a very strange man named Hans-Friedrich, whom I met in India.
+If I were asked what I think about all these things[TODO:synonym] now, I would quote a very strange man named Hans-Friedrich, whom I met in India.
 
 He put it something like this:
 
@@ -160,7 +160,7 @@ Well, yeah, yeah. Take people without spiritual interests, are they busy with so
 
 After all, what is the end of any successful spiritual search? Yes, by the fact that a person says: "Aha!" – and then lives an ordinary human life from second to second, not sticking to anything much. He sees exactly the same as before, he hears too, he is still cold and hot (because there is no other way with people), and he even thinks the same way, only maybe less often and clearer. And then he dies the same way. He just doesn't have any more great questions. So my dad doesn't have them either. And what's the difference?
 
-The famous Indian Saint Ramana Maharshi walked the earth like everyone else. Dad also walks on the ground. Or rather, he drives a Bentley along it (a business necessity). They fly through the sky exclusively in Tibetan marketing.
+The famous Indian Saint Ramana Maharshi walked the earth like everyone else. Dad also walks on the ground. Or rather, he drives a Bentley along (a business necessity). They fly through the sky exclusively in Tibetan marketing.
 
 "There is nothing special about flying," said the Indian Saint before drubchen, "there is nothing special..."
 
