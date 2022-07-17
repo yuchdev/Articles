@@ -192,42 +192,76 @@ I stepped away [TODO:synonym] from everyone, and stood not far from the trident,
 
 The cloud vapor was surprisingly fresh and even, I would say, fragrant – it seemed to me that it slightly smelled of this red gum, masala with betel, the smell of which constantly overtakes on any Indian street. Only the shade of the fragrance was thinner and fresher and did not irritate, but, on the contrary, hinted at some absolutely divine freedom and joy.
 
+"The level of Shiva," I whispered a phrase that I didn't completely understand myself, "the level of Shiva..."
 
-The level of Shiva," I whispered a phrase that I didn't fully understand myself, "the level of Shiva…
-Now I remember that moment and realize that I was absolutely, irrevocably happy at that moment. But then, of course, I didn't understand it.
-Or rather, she understood, but incorrectly. It seemed to me that the fog of bliss hinted at something waiting for me ahead, as if it promised happiness... and that was it.
-Today, from the height of my thirties, I would probably say that happiness is the second when you believe in the possibility and feasibility of your happiness, such a bizarre recursive loop in our brain organ. And there is probably nothing else in the mirrors among which we wander.
-In general, it was amazing – and lasted for a long time, half an hour or more. I was standing over the cliff, looking into the warm cloudy fog, and soon it began to seem to me that it was not gray, but a soft purple, and it was Shiva himself rushing at me now, touching me, playing with me and promising me something… I could almost guess the golden figure of God dancing in the clouds… Oh, how much he promised… I even got jealous at some point - he's like that to everyone
-"I want to meet you, dancing god," I thought with inspiration and joy, "to get as close to you as possible. Appear in front of me as you want... Show me what you can do... Please, please..."
-Probably, you shouldn't have asked for this – the prolonged miracle almost immediately ended. A second later, Hans-Friedrich touched my shoulder. I told in a nutshell about what was happening to me.
-– What was that?  I asked.
-"A gift,– he replied. – Everything that happens on Arunachala is a gift from God.
-I looked back. Verka was standing ten meters away from us and didn't listen to what we were talking about.
-"I didn't get any signs," I said. – No instructions. I just felt good. As good as I can't remember when ...
-– There is no better sign, – smiled Hans-Friedrich. – You came to visit God, and it was good for you to visit him.
-– Well, if you interpret it that way ...
-– There is no need to interpret anything, - he said. – Just notice what's happening to you. God speaks softly, but very clearly. You came to visit him and had a nice time. I would be pleased.
-Me too," I nodded. – Was…
-It sounded unexpectedly sad. I suddenly wanted to stand on the cliff again and expose my face to the purple fog, and meet Shiva again (I had already fantasized a lot about my experience) – but it was clear that this wave of unbearable happiness could not be returned and not forged. The miracle is over.
-–It's time for us to go down," Hans-Friedrich said. – It may start to rain. But I want to tell you one thing before we leave the top – because this is a special place and every word spoken here weighs a lot… What I told you yesterday about signs and directions is the way. A special way under the personal guidance of God.
-I wanted to repeat that I don't believe in God, but then I remembered how I had just communicated with Shiva and grinned. Hans-Friedrich noticed this grin.
-"All right," he said. – Call it what you want. Call it the mystery of the world. The heart of everything. You said Shiva looked at you. Do you want to know how?
-I shrugged my shoulders. Then she nodded.
-– You can do it. You can walk there.
-– How?  I asked.
-Trust the signs. Learn to see them, be always on the alert – and don't miss your chance. You will definitely have it. The signs will show you everything you need. This is a journey that relies on itself and does not need anything else.
-Thanks," I said. – And why are you actually telling me this?
-"I don't have much longer to live," Hans–Friedrich replied. – I just want someone to get the magic secret that I've been using all my life as a gift. And you seem like a great candidate to me.
-- why?
-– For the same reason. No one could have entered my room yesterday. Your friend could have come in. But it was you who came in…
-– I see," I said. – Is it like a dedication?
-He smiled, touched his forehead with his index finger, and then mine.
-– Now yes. The secret officially passes to you. You know everything you need for the ultimate journey. Consider it a gift from Shiva.
-–Well," I said, "when do we start the journey?" At what point?
-– You'll find out. Honestly, you'll find out for yourself. Now just get it all in your head. Write it down in a corner of your memory and forget it for a while. Don't tell anyone about this and don't take fellow travelers or fellow travelers. You can't go there with a friend. The ultimate journey is a personal journey.
-the path turned out to be a little scary – and for a while obscured all other impressions for me. We were running away from the impending rain, and Hans-Friedrich led us along another road – we did not walk at all, but jumped over bumps and stones, zigzagging down. Several times I thought that I would definitely break my neck during these jumps. Then I decided that we were lost and would not get out of the thicket. Both times I managed to get very angry with Hans-Friedrich, and I was even embarrassed for the worldly feelings on the sacred mountain. But everything worked out.
-Interestingly, the rain that we were running away from never spilled. But in the evening I left my sandals on the street, a downpour began at night, and they were soaked to the point of complete unusability.
-In the morning, Hans-Friedrich discreetly said goodbye to us and left. I didn't take his phone or mail.
-Verka and I walked around the ashram for a couple more days, bought incense and music cassettes with bhajans (these are such religious hymns), sat in meaningful silence for several hours in an empty room with a large portrait of Ramana, and left too.
+Now I remember that moment and realize that I was absolutely, unconditionally happy at that moment. But then, of course, I didn't understand it.
+
+Or rather, I understood it, but incorrectly. It seemed to me that the blissful fog is hinting at something waiting for me ahead, as if it promised happiness... but that was exactly it.
+
+Today, from the height of my thirties, I would probably say that happiness is the second when you believe in the possibility and feasibility of your happiness, such a bizarre recursive loop in our brain jukebox. And there is probably nothing else possible in the mirrors among those we wander through our lives.
+
+After all, it was amazing – and lasted for a long time, half an hour or more. I was standing over the cliff, looking into the warm cloudy fog, and soon it began to seem to me that it was not gray, but a soft purple, and it was Shiva himself rushing at me now, touching me, playing with me and promising me something... I could almost see the golden figure of the god dancing in the clouds… Oh, how much he was promising... I even got jealous at some point - is he promising this to everyone, or only to me?
+
+"I want to meet you, dancing god," I thought with inspiration and joy, "I want to get as close to you as possible. Appear in front of me in whatever shape you want... Show me what you can do... Please, please..."
+
+Probably, I shouldn't have asked for this – the endless miracle almost immediately ended. A second later, Hans-Friedrich touched my shoulder. I told in a nutshell about what was happening to me.
+
+"What was that?"  I asked.
+
+"A gift," he replied, "Everything that happens on Arunachala is a gift from God."
+
+I looked back. Verka was standing about ten meters away from us and didn't listen to what we were talking about.
+
+"I didn't receive any signs," I said, "No instructions. I just felt good. As good as I can't remember whether I was ever feeling like this..."
+
+"There can't be a better sign," smiled Hans-Friedrich, "You came to visit God, and it was good for you to visit Him."
+
+"Well, if you interpret it that way..."
+
+"There is no need to interpret anything," he said, "Just watch what's happening to you. God speaks softly, but very clearly. You came to visit Him and had a nice time. I would've  been pleased.
+
+"Me too," I nodded. "I was…"
+
+It sounded unexpectedly sad. I suddenly wanted to stand on the cliff again and expose my face to the purple fog, and meet Shiva again (I had already fantasized a lot about my experience), but it was clear that this wave of unbearable happiness could not be returned and not forged. The miracle was over.
+
+"It's time for us to go down," Hans-Friedrich said, "It may start to rain. But I want to tell you one thing before we leave the top – because this is a special place and every word spoken here weighs a lot… What I told you yesterday about signs and directions is the way. A special way under the personal guidance of God."
+
+I wanted to repeat that I don't believe in God, but then I remembered how I had just communicated with Shiva and smiled. Hans-Friedrich noticed this smile.
+
+"All right," he said. "Call it what you want. Call it the mystery of the world. Or the heart of everything. You said Shiva looked at you. Do you want to know where from he was looking at you?"
+
+I shrugged my shoulders. Then nodded.
+
+"You can do it. You can walk there."
+
+"How?"  I asked.
+
+"Trust the signs. Learn to see them, be always on the alert – and don't miss your chance. You will definitely have it. The signs will show you everything you need. This is a journey that relies on itself and does not require anything else."
+
+"Thanks," I said, "And why are you actually telling me all this?"
+
+"I don't have much longer to live," Hans-Friedrich replied. "I just want someone to get the magic secret that I've been using all my life as a gift. And you seem like a great candidate to me."
+
+"Why?"
+
+"For exactly the same reason. No one could have entered my room yesterday. Your friend could have come in. But it was you who came..."
+
+"I see," I said. "Is it kind of initiation?"
+
+"He smiled, and touched his forehead with his index finger, and then mine."
+
+"Now it happened. The secret officially passes to you. You know everything you need for the ultimate journey. Consider it a gift from Shiva."
+
+"Well," I said, "when should I start the journey? At what point?"
+
+"You'll find out. Honestly, you'll find it out for yourself. For now just put it all in your mind. Write it down in a deep corner of your memory and forget it for a while. Don't tell anyone about this and don't take travelling companions. You can't go there with a friend. The ultimate journey is a personal journey."
+
+The way back to the guesthouse turned out to be a little scary, and for a while overshadowed all other impressions for me. We were running away from the approaching rain, and Hans-Friedrich led us along through road – we did not walk at all, but jumped over bumps and stones, zigzagging down the hill. Several times I thought that I would definitely break my neck during these jumps. Then I decided that we got lost and would not get out of these thicket. Both times I managed to get very angry with Hans-Friedrich, and I was even embarrassed for the profane feelings on the sacred mountain. But everything turned well.
+
+Interestingly, the rain that we were rushing away from never showered. But in the evening I left my sandals outside, and at night rainstorm broke out, so they were soaked to the point of complete unusability.
+
+In the morning, Hans-Friedrich discreetly said goodbye to us and left. I didn't ask for his phone or email.
+
+Verka and I walked around the ashram for a couple more days, bought some incense and music cassettes with bhajans (these are such religious hymns), stayed in meaningful silence for several hours in an empty room with a large portrait of Ramana, and left too.
 
 *Emoji of a beautiful blonde with light sadness remembering how it happens in India when you are twenty-five years old and Shiva is dancing in the sky and everything is still ahead.png*
