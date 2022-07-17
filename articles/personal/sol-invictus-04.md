@@ -90,35 +90,49 @@ We're all the chosen ones today, aren't we?
 
 It's a typical trick of marketers is to explain to the client that there is a very special club, or a special magazine, or an extremely significant director, writer or artist, pushed through a very special magazine, etc. etc. - and this is not a marketing product, but something that marketers themselves touch with delight and awe, for their own inspiration and happiness: an object from another world, spontaneously hovering above the bustle of the market, astounding with its greatness all the chosen who are ready to fall to it as to a spring...
 
-Oh, how I would like to live in a world where this happens. But it is enough to track down a specific cloaca (not to say cloaca) that creates this psychedelic haze, and the mirage disappears. And you can track it in three minutes, only laziness – why? Tag with the word "exclusive" – a necessary condition for mass sales. Everything is very clear and boring. Since the time of the artist Duchamp, the secular springs of the spirit are indistinguishable from urinals (Duchamp, by the way, could have exhibited a bidet as an object of art, not a urinal, and that's very lame and patriarchal).
-And if I diligently depict high irony (or cynicism – I don't always understand what the difference is), then just because all of this is also included in the right cocktail being made for us somewhere out there.
+Oh, how I would like to live in a world where this happens. But it is enough to track down a specific claque (is not to say cloaca) that creates this psychedelic haze, and the mirage disappears. And you can usually track it in three minutes, just lazy - why do I need it? Tag with the word "#exclusive" – a necessary precondition for mass sales. Everything is very clear and boring. Since the time of the artist Duchamp, the secular springs of the spirit are indistinguishable from urinals (Duchamp, by the way, could have exhibited a bidet as an object of art, not a urinal, otherwise it looks lame and patriarchal).
+
+And if I'm diligently depicting high irony (or cynicism, I don't always quite understand what the difference is), then it's just because both of them also included in the right cocktail being made for us out there.
+
 We are truly the spiritual children of Twitter and Netflix.
-"Well, whose children are Twitter and netflix, it's not difficult to count," said a gloomy bass voice in my head, and I laughed. I even counted the letters–if with spaces, Twitter and Netflix gives exactly eighteen. Three times six. I remember the memasik about the number of the beast, and although I do not believe in it, of course, I am afraid of these numbers nevertheless…
+
+"Well, whose children are Twitter and Netflix, it's not difficult to trace," said a gloomy bass voice in my head, and I laughed. I even counted the letters–if with spaces, Twitter and Netflix gives exactly eighteen. Six repeated three times. 
+
 No, seriously, what else do I believe in? Even a little?
 Good question.
-Well, let's say in transurfing. Or rather, I believed it when I was much younger. As one smart boy in dark glasses, whom I met at the relevant seminar, put it (meaningfully introduced himself as Vadik), "transurfing reality is quantum consciousness in the service of a clouded ego."
-The same Vadik, by the way, explained this: due to the well-known quantum paradox about the observer's influence on the observed system, transurfing will work fine if one person in the world knows about it, about twice as bad if two people know about it, and so on. He even drew a graph.
-I didn't remember the schedule, I only remember the final thought: when large housewives and Internet homeworkers begin to practice transurfing, and then several thousand people gather for a seminar near Moscow, where they objectify chicks in the evening and refuel with beer, and in the morning they thank Wednesday and release the importance, this is no longer transurfing reality, but the reality of transurfing.
-What's the difference, I asked. The fact, Vadik explained, is that the "reality" from the first phrase can still be tilted a little with the help of transurfing, but the "reality" from the second is no longer there, because due to the illumination of the method, it is now collectively transurfed, confused with a lot of unclean attention, and for effective work with it, conscious transurfing of transurfing (type "turn on the importance" and "get angry at the environment"), which, again, will work fine as long as one person knows about it, etc.
-Vadik seemed to hint that he was this person, so it's really worth sleeping with him for spiritual purposes: a real chance to become Sith number two and gain access to the dark side of the force… You could, by the way, try your "transurfing transurfing" on me.
-Wait, so he tried it, for three whole evenings – the external intention was clearly present there. But it didn't work out. Even masters of the dark arts should go to the gym regularly. Especially them.
-In general, I have good memories associated with transurfing. Does it really work, or does everything extinguish the above-described "Vadik effect", I do not know, but in young urban life there is a second exciting mystery after masturbation, and this is already a lot. I would even say – very, very much, because such a mystery in itself is a transurfing of the reality that the big guys who stole the world feed us daily. In general, thanks to Comrade Stalin for our happy childhood.
-What else do I believe in? Well, in money, of course. They are also respected by the masters of transurfing, although they could just shit from their quantum-conscious peaks (or, as they say, "confuse with shit" – although grandfather Ziggy Freud already did this once.). In general, everyone who goes shopping believes in money – this is the very core of the scientific worldview. We will delicately skip this topic.
-What else? In Lord Shiva? He sent me purple clouds, right? Yes, there is a more complicated question here. After all, I naturally prayed to him on the top of Arunachala. But this is completely different. It's not that I believe in him or don't believe in him – just because of cultural remoteness, he is more like a comic book hero for me, to whom you can sometimes turn as to God. This is not a religion, but a game. Or a game with elements of religion – why not…
-Let's just say that I love Lord Shiva with all my heart. But I can't say that I believe in him with all my heart. Who loved, he will understand. And we will also omit this topic – om nama shivaya, thank you for being alive.
-Into the immortality of the soul? It depends on how to understand it. If the soul is immortal, what will you be like after death – three, twenty, forty? Or the way she was at the time of death? So, if you die an old woman, you will have an old woman's immortality, and if you are a child – a child? Or are they all being cut under the same comb? Or does life mean nothing, and the soul does not change at all? Unclear. It is necessary to clarify the question with Shiva at a personal meeting.
-In general, it turns out that I really don't believe in anything. Our spiritual subscription implies, of course, the existence of some eternal truths, but wisely leaves them in the fog.
-My "spiritual sphere" is an information cloud with constantly updated content, which, if you look into it, is formed for me by someone unknown. But I'm sure that only the most modern, fashionable and the best will get there – how else?
-It's stupid to even ask what I believe in. I don't believe it, I'm signed up with all the advanced young individuals. For what? For advancement. And what exactly it is at the moment, it is necessary to ask not from me but from the market.
-But still there are some central crystallizations in the cloud of my spirituality. For example, about the fact that our world is a simulation. I'm really inclined to think so. When you play for a long time in 3D glasses at a good resolution, and then you take them off and see all this, you immediately want to take off the built-in glasses too. But, alas, they are tightly mounted in the case.
-But then who is doing this simulation? And for whom? And how? There are no answers to this in my spiritual netflix. There are no answers at all – the subscription cloud does not like them precisely for the reason that any final truth in itself is a separate subscription service and a direct competitor to the general subscription.
-The world and all of us are a dream of God. Have you heard? I heard it too. So, we sleep on – since God wants it that way.
-On the other hand, some people seem to wake up. And they praise their condition very much. So God wants that sometimes, too? Or, as Hans-Friedrich says, is it just a role-playing game? You will get entangled in this entanglement.
+
+Well, in money, of course. In general, everyone who goes shopping believes in money – this is the very core of the scientific worldview. We will delicately skip this topic.
+
+What else? In Lord Shiva? He was sending me purple clouds, right? Well, that's quite a complicated question. After all, I naturally prayed to him on the top of Arunachala. But it's not that I believe in him or don't believe in him, it's just because of cultural remoteness, he is more like a comic book hero for me. This is not a religion, but a game. Or a game with elements of religion, why not…
+
+Let's just say that I love Lord Shiva with all my heart. But I can't say that I believe in him with all my heart. Who ever loved will understand me. And we will also omit this topic.
+
+Do I believe in immortality of the soul? It depends on how to understand it. If the soul is immortal, what will you be like after death – three, twenty, forty? Or the way she was at the time of death? So, if you die an old woman, you will have an old woman's immortality, and if you are a child – a childish one? Or are they all being cut under the same comb? [TODO:analog] Or your life experience means nothing, and the soul does not change at all? Thats unclear. I really shoud clarify this with Lord Shiva at a personal meeting.
+
+In general, it turns out that I really don't believe in anything. Our spiritual subscription implies, of course, the existence of some eternal truth, but wisely leaves it in the fog.
+
+My "spiritual sphere" is an information cloud with constantly updated content, which is formed for me by someone unknown. But I'm sure that only the most modern, fashionable and the best will get there – how could it not?
+
+It's stupid to even ask what I believe in. I don't believe it, I'm subscribed with all the advanced young individuals. Subscribed for what? For advancement. And what exactly it is at the moment, it is necessary to ask not from me but from the market.
+
+But still there are some central crystallizations in the cloud of my spirituality. For example, about the fact that our world is a simulation. I'm really inclined to think so. When you play for a long time in 3D glasses at a good resolution, and then you take them off and see all this [TODO:synonym], you immediately want to take off your built-in glasses too. But alas, they are rigidly mounted in the case.
+
+After all, who is doing this simulation? And for whom? And how? There are no answers to this in my spiritual netflix. There are no answers to any questions, the subscription cloud does not like them precisely for the reason that any final truth in itself is a separate subscription service and a direct competitor to the general subscription.
+
+The world and all of us are a dream of God. Have you heard? I heard it too. So, we sleep on – since the God wants it that way.
+
+On the other hand, some people seem to wake up. And they praise their experience very much. So God wants that sometimes, too? Or, as Hans-Friedrich says, is it just a role-playing game? Oh, almost entangled in this entanglement.
+
 Here's what could be a good target for my ultimate journey: I would like to know from where these magical purple clouds flew to me that day on Arunachala, when the main secret of everything was close and accessible. Who is this thin golden silhouette dancing in the clouds? Who generates the world – and why?
+
 Shiva, can you hear me?
-In general, it is difficult even to determine the direction of the search… Everything is vague. Everything is very vague. And, most importantly, I'm not sure I know what I really want.
+
+In general, it is difficult even to determine the direction of the search… Everything is so vague. And, most importantly, I'm not sure I know what I really want.
+
 I was thinking, and at that moment a crow cawed outside the window:
-– A fairy tale! A fairy tale!
+
+– A fairy tale! A fairy tale! [TODO:close]
+
 That is, it may well be that the crow wanted to say something else, but I clearly distinguished this word in her hoarse solo. Repeated as many as two times.
 A shiver went down my spine.
 
