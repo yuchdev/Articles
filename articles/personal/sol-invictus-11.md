@@ -78,7 +78,7 @@ When I said I was defending myself, I wasn't lying. My brother was plotting my m
 
 Rome became quiet. At first, out of fear. And when I defeated the insolent Germans and strengthened the northern border, respect was added to the fear.
 The emperor, as my father used to say, can choose Rome or a province as his home. Tiberius said that running an empire was like holding a wolf by the ears. If you do it among the Roman excesses, it will be easier for the wolf to break out and bite.
-Life in Rome is the path of Caligula, Nero and Commodus, and it ends the same way as their destinies. Life in the provinces, among the legions, is the fate of Marcus Aurelius and my father. My brother managed to walk along the first path, he had fun, but not for long. I chose the second one for myself.
+Life in Rome is the path of Caligula, Nero and Commodus, and it ends the same way as their destinies. Life in the provinces, among the legions, is the fate of Marcus Aurelius and my father. My brother managed to walk along the first path -- he had fun, but not for long. I chose the second one for myself.
 
 My father wanted me to become the new Alexander. But what did it mean in our days?
 
