@@ -1,4 +1,5 @@
 # Chapter 9
+--
 
 Of the gods, ancient and novel, I liked the shiny Mithra the most. My father and mother encouraged me in this from childhood, but in different ways.
 
@@ -12,7 +13,7 @@ Mother knew a lot of strange things about the Sun. For example, she said that in
 
 We are all looking for the miraculous to deceive the fate and go beyond the boundaries of the ordinary. Religion, which claims that the Sun is not a yellow circle in the sky, but a mysterious Stone hidden in a Syrian backwater, can captivate not only a child, but also a serious philosopher.
 
-My mother Julia Domna came from an ancient family of priest-kings who served the Sun Stone and ruled Emesa. Her father Bassian was also a priest, but no longer a king. They say, he saw the future and created miracles. But in the East, this will hardly surprise anyone.
+My mother Julia Domna came from an ancient family of priest-kings who served the Sun Stone and ruled Emesa. Her father Bassian was also a priest, but no longer a king. They say, he saw the future and created miracles. But in the East, this can hardly surprise anyone.
 
 It was said about my mother Domna that in her youth, either by herself or at the request of my grandfather Bassian, she gathered the best philosophers and sophists of the Hellenic world at the main shrine of the Emesa's temple. They argued for hours in front of the Stone about the affairs of our life and the bitter human lot, so that the deity would know everything first-hand.
 
@@ -22,13 +23,13 @@ It's hard to believe that my grandfather could ask her for such a thing. On the 
 
 In a word, the family was not without divine oddities, as befits the Princeps family. Caligula, after all, also talked to Jupiter, whispering to his statue – my relatives were just more respectful. They did not bother the deity with their requests, but delicately informed him about the state of affairs in the world.
 
-The mother's family could continue to serve the Sun Stone, but the future emperor, my father said, this does not suit. It is more useful to worship Mithra together with the soldiers. He is also in some way the Sun and also in some way a Stone, because he was born from a rock.
+The mother's family continued serving the Sun Stone, but the future emperor, my father said, this does not suit. It is more useful to worship Mithra together with the soldiers. He is also in some way the Sun and also in some way a Stone, because he was born from a rock.
 
 My mother agreed with these clumsy soldier sophisms and did not initiate me too deeply into the Syrian mysteries. But even the little I heard from her was enough to impress my imagination forever.
 
 The chosen one of the gods will come from our family. Am I not this man, I thought at night, remembering the Gallic Mithreum with the sun turning pink in the open doors…
 
-When my father, having already become emperor, took the rebellious Lugdunum with by storm, I did not find either Mithreum or this sunny street. It is quite possible that I saw them in some other city during our endless travels. The Emperor of Rome is doomed to wander, and his family follows him.
+When my father, having already become emperor, took the rebellious Lugdunum by storm, I did not find neither this Mithreum nor this sunny street. It is quite possible that I saw them in some other city during our endless travels. The Emperor of Rome is doomed to wander, and his family follows him.
 
 The soldier's faith in Mithra suited me perfectly. It seemed much more understandable than the ancient cults of the Olympians and sophisticated Eastern heresies.
 
@@ -44,7 +45,7 @@ I considered myself a little Sun, then a little Mithra, and often persuaded adul
 
 At the age of thirteen, I managed to kill a bullock with a spear thrown from above. After I spent a few minutes over his carcass and touched his blood with my fingers, I lost my taste for this cruel fun. Although Mithra was killing bulls on innumerable frescoes, he was a good god. I also wanted to be a good god. Alas, my father explained to me early, this is not always possible in our world.
 
-I was the son of a living Sun, a luminary with wrinkles, a graying dyed beard and coarse big hands. This Sun shone throughout the vast empire, warmed it and nourished it, and people came just to see it and bow to it. I could become the next Sun, but I had a brother – and there are no two suns in the sky.
+I was the son of a living Sun, a luminary with wrinkles, a graying dyed beard and coarse big hands. This Sun shone throughout the vast empire, warmed it and nourished it, and people came just to see him and bow to him. I could become the next Sun, but I had a brother – and there are no two suns in the sky.
 
 Geta always seemed to me to be a fake god, placed by fate next to me in order to test and torment me, the real god.
 

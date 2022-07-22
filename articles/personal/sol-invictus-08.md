@@ -1,4 +1,5 @@
 # Chapter 8
+--
 
 Frank's Sith outfit still scared me, but gradually I got used to it. The dark side of the Force... Something similar has already happened to me.
 

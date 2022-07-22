@@ -1,4 +1,5 @@
 # Chapter 7
+--
 
 So did not live in a hotel, but on a yacht – her own yacht, on which she sailed here. The yacht was moored at the Atakoy Marina. "I call her Saint Marina," she said with a smile, "so that Sofia would not be bored alone". During the time spent in the taxi, we finally switched to familiar terms, exchanged phones and emails, and I learned a lot about my new acquaintance.
 

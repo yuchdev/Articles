@@ -1,4 +1,5 @@
 # Chapter 3
+--
 
 When Verka and I (she was my traveling companion in India, but we didn't really communicate after that) went to Arunachala, it was a real trip. And not at all because of the substances.
 

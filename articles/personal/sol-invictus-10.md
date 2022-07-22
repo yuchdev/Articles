@@ -1,4 +1,5 @@
 # Chapter 10
+--
 
 There was not the slightest affectation in the way Frank was saying "Me" when talking about Caracalla. After a few sentences, I began to believe that I was listening to a living Emperor. It both pleased [TODO:synonym] me and scared me.
 
@@ -32,7 +33,7 @@ Why not? The mask didn't oblige me to anything, but it did oblige Frank to a lot
 
 You could say, I thought, while my boyfriend was massaging my back, that every consistent feminist should strive for something like this. The most radical sisters do not even consider such an option and immediately go beyond the lesbian horizon, generally doing well without testosterone carriers. But a male slave is just the thing. This is not a gender revolution, but a return to a forgotten cultural and historical gestalt.
 
-"How is the mistress feeling?"
+"How's the mistress feeling?"
 
 "The mistress is almost satisfied."
 
@@ -74,7 +75,7 @@ Such phrases were alarming me. When Frank, figuratively speaking, took off his t
 
 However, I never believed in IQ anyway, which is in my opinion a pure quackery. The only thing that determines the level of an IQ test is a person's ability to pass IQ tests. All other interpretations of this experience reduce the human brain and soul to a cheap uncomplicated mechanism.
 
-Frank's phone was playing the song "Bella Ciao" by Tom Waits, and I often listened to it, because they started calling him, of course, as soon as he went to the bathroom and turned on the clipper (no hairdresser in the world, he complained, could properly cut the hair on Caracalla's image, and he had to fix his hair himself once a three days).
+Frank's phone was playing the song "Bella Ciao" by Tom Waits, and I often listened to it, because they started calling him, of course, as soon as he went to the bathroom and turned on the clipper (no hairdresser in the world, he complained, could properly cut the hair on Caracalla's[TODO:correct form] image, and he had to fix his hair himself once a three days).
 
 The words in the song were as follows:
 
@@ -93,7 +94,7 @@ I understood that this American Bella was not just a cover: the song had a subte
 
 "And why then such a ringtone?" I asked.
 
-"This song has amazing dramatics," Frank replied, "First, the lyrical hero wakes up, sees a fascist at the door and is so scared that he asks the partisans to take him (I mean, the lyrical hero) with him. The partisans, apparently, refuse – why do they need a coward? Then the lyrical hero again asks to take him away, assuring that he is no longer afraid... And then he begs to bury him beneath the shadow of a flower. Just the anthem of American snowflakes... Every time I listen and laugh... and real fascists, by the way, would sing this song like this…
+"This song has amazing dramatics," Frank replied, "First, the lyrical hero wakes up, sees a fascist at the door and is so scared that he asks the partisans to take him (I mean, the lyrical hero) with him. The partisans, apparently, refuse – why do they need a coward? Then the lyrical hero again asks to take him away, assuring that he is no longer afraid... And then he begs to bury him beneath the shadow of a flower. Just the anthem of American snowflakes. Every time I listen and laugh... and real fascists, by the way, would sing this song like this…
 
 *Eines Morgens als wir erwachten*<br>
 *Bella ciao, Bella ciao, Bella ciao ciao ciao*<br>
@@ -104,13 +105,13 @@ And he gave me a German version of "Bella Ciao" from a disco in Majorca. The per
 
 Sounded right for the parade, yes. But I didn't understand the words.
 
-"Don't worry, the Germans cleaned up the partisans right away," Frank grinned, "They only sing about Schönes Mädchen, beautiful girl. Like, the girl broke my heart. Fascist songs are not about fascism, but about beautiful girls. That's what our "snowflakes" need to listen instead of Tom Waits. In other way, they will meet a real fascist someday and decide that he's a merry chimney sweep…
+"Don't worry, the Germans cleaned up the partisans right away," Frank grinned, "They only sing about Schönes Mädchen, beautiful girl. Like, the girl broke my heart. Fascist songs are not about fascism, they are about beautiful girls. That's what our "snowflakes" need to listen instead of Tom Waits. Otherwise, they can meet a real fascist someday and decide that he's a merry chimney sweep…
 
 Apparently, he did not like these "snowflakes".
 
 "But what should we do," I asked, "if there really is a Fascist at the door?"
 
-"And what does the word "fascist" mean today? According to one version, this is a man hiding a portrait of Trump at home, according to another – someone who does not have tears coming out fast enough during Greta Thunberg's speech in Davos. And if you forget about politics, a fascist is any person who interferes with your comfortable parking. Both in physical and spiritual sense…"
+"And what does the word "fascist" means today? According to one version, this is a man hiding a portrait of Trump at home, according to another – someone who does not have tears coming out fast enough during Greta Thunberg's speech in Davos. And if you forget about politics, a fascist is any person who interferes with your comfortable parking. Both in physical and spiritual sense…"
 
 And Frank gave me a whole lecture about the political background of American *politico correctum* – behind it, as he assured me, was an attempt by the transnational financial and information elite to enslave minds in the same way as in past cultures they enslaved bodies, hiding the masters of the world behind a human shield of various teenage Gretas, crippled lesbians (here I lightly slapped him on the forehead), black activists, transgender Muslims and other symbolic staff, any disapproving look in the direction of whose will be fiercely punished.
 
@@ -128,7 +129,7 @@ And Frank gave me a whole lecture about the political background of American *po
 
 He even turned green. How I love provoking him.
 
-"Greta is not important here at all, how can't you understand. She may be the most sincere and kind being in the world, or she may be a 3D printout of a National Socialist poster, or she may not being at all. From the moment when the oligarchy puts on her disguise, it makes no sense talking  about her anymore. The woke-bijouterie is colorful feathers sticking out of the ass of the world's Brangelina Gates, crawling along the red carpet for another billion. It's just a new mask of Satan, which, just like the Guy Fawkes mask, all the world's morons immediately start wearing. We are the new serfs, that's what…
+"Greta is not important here at all, how can't you understand. She may be the most sincere and kind being in the world, or she may be a 3D printout of a National Socialist poster, or she may not being at all. From the moment when the oligarchy puts on her disguise, it makes no sense talking  about her anymore. The woke-bijouterie is colorful feathers sticking out of the ass of the world's Brangelina Gates, crawling along the red carpet for another billion. It's just a new mask of Satan, which, just like the Guy Fawkes mask, immediately being worn by all the world's morons. You didn't have this even under Stalin. We are the new serfs, that's what…
 
 The former European serf, Frank said, could not leave his village, but he could think whatever he wanted. A modern American serf can travel all over the world and even fly into space if he has money, but his consciousness at the same time must run on a short leash around several pegs driven in by corporate media – "narrative shapers".
 
