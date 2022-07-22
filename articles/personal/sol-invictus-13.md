@@ -22,7 +22,7 @@ It was difficult for me to answer, although I knew Alexander's story.
 
 Of course I remembered it. Alexander's very first battle, in which he participated with his father at the age of eighteen. Alexander and his horsemen defeated the Sacred Band of Thebes, previously considered invincible. Actually, the detachment remained undefeated -- all three hundred Hoplites died in battle.
 
-I have always been amazed by the history of this squad. Three hundred soldiers-lovers, divided into pairs of "lover-beloved" -- the most terrible striking force of the Greek army, which many times beat even the outnumbered Spartans. It was said that the invincibility of the Sacred Band was explained by the fear of the fighters to cover themselves with shame in front of their loved ones, and by the fact that the lovers fought side by side, protecting each other.
+I have always been amazed by the history of this squad. Three hundred soldiers-lovers, divided into pairs of "lover-beloved" -- the most menacing striking force of the Greek army, which many times beat even the outnumbered Spartans. It was said that the invincibility of the Sacred Band was explained by the fear of the fighters to cover themselves with shame in front of their loved ones, and by the fact that the lovers fought side by side, protecting each other.
 
 It was also said that the Theban Band was called Sacred because its soldiers participated in a special mystery at the grave of Jocastus, the charioteer of Hercules -- and in them, in all at once, the god Eros was possessed, who was becoming horrifying when his love frenzy turning into a fighting rage.
 
