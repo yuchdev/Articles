@@ -124,7 +124,7 @@ I remembered this while drinking with soldiers and destroying the tombs of the P
 
 When I stopped at Edessa, a priest from the temple of the Moon has been brought to me. It was an old Persian who looked like Darius, as he is depicted on bath mosaics. Nowadays, however, many Romans look like this, a long beard and oriental caps are in fashion with us.
 
-"The Lord of the night is waiting for you," the Persian said when we were alone.
+"The Lord of the Night is waiting for you," the Persian said when we were alone.
 
 Lord of the night. Well, yes, one of the titles of Lunus. A lady would have been more suitable for me, but in Asia the Moon was a man. It's hot in here, I thought. The doctors won't be happy.
 
