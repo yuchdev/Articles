@@ -266,5 +266,3 @@ When it was over, the goddess became sad.
 I guessed myself that I was not the Sun. I was only feasting with him at the same table. But now it didn't matter anymore. The goddess loved me. She was calling.
 
 I gave the order to prepare a detachment of cavalry to leave Edessa for Carrhae. I'll dress inconspicuously, I thought, in caracalla. I should have brought more soldiers with me. The enemy was not around, and for the first time we meet, I was going to be with the goddess for a very short time, but the emperor should always remember about the wolf, which he holds by the ears…
-
-
