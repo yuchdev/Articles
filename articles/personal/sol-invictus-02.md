@@ -151,7 +151,7 @@ Then there were transurfing, mindfulness, Sufi dance, Dzogchen, and something el
 
 It also hung on the necklace, sparkled, and is sparkling until now. Yes, a party acquaintance. Is there anything else in our brief urban lives? No. There are only beads. Only the threads on which the colorful show-offs[TODO:slang].
 
-If I were asked what I think about all these things[TODO:synonym] now, I would quote a very strange man named Hans-Friedrich, whom I met in India.
+If I was asked what I think about all these things now, I would quote a very strange man named Hans-Friedrich, whom I met in India.
 
 He put it something like this:
 
