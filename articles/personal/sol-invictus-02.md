@@ -159,7 +159,7 @@ He put it something like this:
 
 Well, yeah, yeah. Take people without spiritual interests, are they busy with something else? Here's my dad. He digs with a shovel in the same way, only without any questions and answers. Just on the monetary and macaroni field.
 
-After all, what is the end of any successful spiritual search? Yes, by the fact that a person says: "Aha!" – and then lives an ordinary human life from second to second, not sticking to anything much. He sees exactly the same as before, he hears too, he is still cold and hot (because there is no other way with people), and he even thinks the same way, only maybe less often and clearer. And then he dies the same way. He just doesn't have any more great questions. So my dad doesn't have them either. And what's the difference?
+After all, what is the end of any successful spiritual search? By the fact that a person says: "Aha!" – and then lives an ordinary human life from second to second, not sticking to anything much. He sees exactly the same as before, he hears too, he is still cold and hot (because there is no other way with people), and he even thinks the same way, only maybe less often and clearer. And then he dies the same way. He just doesn't have any more great questions. So my dad doesn't have them either. And what's the difference?
 
 The famous Indian Saint Ramana Maharshi walked the earth like everyone else. Dad also walks on the ground. Or rather, he drives a Bentley along (a business necessity). They fly through the sky exclusively in Tibetan marketing.
 
