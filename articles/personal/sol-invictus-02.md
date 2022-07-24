@@ -3,7 +3,7 @@
 
 Daddy showed up – probably, he sensed that I was thinking about his pasta. He even came to my house. At first, I couldn't understand what it was all of a sudden, until he said it himself. Thirty years. Well, yeah, the anniversary.
 
-He didn't notice my birthdays before. But after all, the Russian businessman is mainly interested in the zeros to the right of the digit. There were no zeros for a long time.
+He didn't notice my birthdays before. But after all, businessman is mainly interested in the zeros to the right of the digit. There were no zeros for a long time.
 
 "Whose paintings are these? " he asked from the doorway. "What huge ones. Yours?"
 
@@ -43,7 +43,7 @@ He shook his finger at me. Then he shook his head, sighed, and shook his finger 
 
 "Like a business secretary?"
 
-"Why secretary. You know English fluently, you can work anywhere abroad. You love Asia. Take India, for example. There will be opportunities soon. English is spoken in a lot of places."
+"Why secretary. You know English fluently, you can work anywhere abroad. You love Asia. Take India, for example. There will be business opportunities soon. English is spoken in a lot of places."
 
 "I like to do things with my hands," I said. "Well, or the body. Not in that sense, of course. And I would like to keep my head to myself."
 
