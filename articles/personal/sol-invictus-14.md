@@ -20,7 +20,7 @@ The next morning, while I was still sleeping, Frank rented a car -- an old Camry
 
 "Did you find the arrows there?" I asked in amazement.
 
-"No. I found scratches from the tips. By the way, try to imagine it -- forty thousand people are standing in a square in the desert, such a formation will later be officially called a square in military science, and horsemen in colorful clothes are galloping around and shooting bows endlessly...
+"No. I found scratches from the tips. By the way, try to imagine it -- forty thousand people are standing in a square in the desert, such a formation will later be officially called "square" in military science, but back then it was something new, and horsemen in colorful clothes are galloping around and shooting bows endlessly...
 
 "I can," I replied, stirring my coffee with a spoon. "Such a *Borodino* of the poet Lermontov."
 
@@ -49,9 +49,9 @@ I loved this cross-cultural trans-epochal conversation over coffee and ice cream
 
 "There are funny people here," he said. "When I was filling out documents for the car, two bearded men came up to me and asked -- where are you from? I thought if I said I was from America, they'd say something rude. And I answer: from California. He asked -- where is it? And the second one says -- oh, I remember, *Californication*. We were watching at the camp..."
 
-"Californication," I repeated. "A beautiful word. There's something antlike about him. Was there such a TV series too?"
+"Californication," I repeated. "A beautiful word. There's something antlike about him. Was there such a TV show too?"
 
-"Everything in the world is a TV series that has already been."
+"Everything in the world is a TV show that has already been."
 
 The Toyota really looked very old, even ancient. After opening the trunk, Frank threw our bags in there and said:
 
@@ -77,7 +77,7 @@ I told Frank about the hammer and the tile, but he didn't like the comparison. H
 
 "No," he said. "Look, there's a round spot in the center of Harran. There are almost no houses. This is an old city -- it's similar in color and shape to the moon. Isn't it so?"
 
-"Well, a lousy one is talking only about a bath," I translated the proverb into English not without effort.
+"Well, a lousy one is only thinking about bathing," I translated the proverb into English not without effort.
 
 "I don't have lice," Frank said.
 
@@ -136,7 +136,7 @@ He poked his finger at the phone screen -- the round gray bald spot that reminde
 
 "Stay here," he said, "I'm going to scout."
 
-He got out and went somewhere in the hot yellow haze. There was almost no one on the street. Frank was followed by a pair of bearded men in blue overalls. One of them was dragging a small coil of wire -- probably, I thought, repairing an ancient land line to the temple of the Moon. Apparently, there was life behind the wall after all.
+He got out and went somewhere in the hot yellow haze. There was almost no one on the street. Frank was followed by a pair of bearded men in blue overalls. One of them was dragging a small coil of wire -- probably, I thought, repairing an ancient landline to the temple of the Moon. Apparently, there was life behind the wall after all.
 
 Some time passed, bearded men in overalls appeared on the street again, got on a red scooter and drove away. Frank was still gone.
 
